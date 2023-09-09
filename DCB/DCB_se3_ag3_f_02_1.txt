@@ -1,0 +1,22 @@
+When is the speaker's birthday? : 0.5310, 4.0319
+Where was the speaker born? : 31.4653, 34.5124
+What is the speaker's job? : 132.1607, 137.5701
+Where was the speaker's mother born? : 158.3595, 162.3775
+Where was the speaker's father born? : 163.5920, 165.1269
+What did the speaker's mother do for work? : 189.5573, 194.7198
+What is the age difference between the speaker and their siblings? : 339.9377, 343.7222
+How did the speaker feel about their elementary school experience? : 463.7155, 467.7069
+When did the speaker start to like school? : 685.0320, 686.2440
+How many AP classes did the speaker take in high school? : 710.5167, 713.2035
+According to the speaker, what does the public education system care about? : 814.3995, 822.8418
+What Air Force base was across from the first home that the speaker's family purchased? : 944.2532, 954.5682
+At what age did the speaker learn the power of networking? : 1267.2216, 1280.3015
+Why did the speaker go into the military? : 1317.4705, 1329.5272
+What does the speaker's business do? : 1692.0638, 1704.2307
+According to the speaker, how is the traffic in Waldorf? : 1834.4833, 1838.6181
+Where is the speaker's fiance from? : 2068.5634, 2076.0014
+Did the speaker ever feel like they were in danger of losing their life in the military? : 2188.3398, 2210.1343
+How many car accidents has the speaker been in? : 2225.9214, 2228.5881
+What is the name of the all-girl band in Washington DC that the speaker mentions? : 2507.3742, 2525.2040
+Why doesn't the speaker believe what's in the census? : 2963.7212, 2975.5105
+What does the speaker say is the stereotype about white people? : 3175.8931, 3181.9632

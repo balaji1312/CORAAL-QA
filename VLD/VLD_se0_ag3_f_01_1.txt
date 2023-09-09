@@ -1,0 +1,8 @@
+What is the speaker's birthday? : 15.7088, 39.9373
+Why does the speaker not know where the speaker's parents were born? : 169.4507, 187.0031
+Where would the speaker ride their bike to as a child? : 484.0934, 486.5601
+Which grade year did the speaker have their favorite teacher? : 828.2629, 870.6872
+What is the reason the speaker got whoopings? : 1219.6134, 1234.8054
+Why is the speaker now excited about prom? : 1802.6177, 1820.0908
+What did the speaker's neighbor Ms. Sister want from the grocery store? : 2218.7037, 2251.0921
+Why does the speaker think her sister is idolized? : 2599.2626, 2633.2914 

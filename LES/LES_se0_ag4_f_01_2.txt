@@ -1,0 +1,18 @@
+What program is the speaker's son in? : 139.2600, 144.5960
+According to the speaker, why do police do vertical patrol? : 239.1419, 269.0231
+When did the speaker's landlord tell them that their rent would no longer be subsidized? : 513.6755, 529.0287
+According to the speaker, who wrote the law to give tenants the right to buy their building? : 658.9015, 673.3849
+What does the speaker think made the Lower East Side different? : 795.9872, 803.9233
+What color is the building around the corner from the speaker that costs one point five million dollars? : 948.1700, 960.3066
+According to the speaker, why was local law seventy-nine shut down? : 1138.5821, 1150.7962
+What amazed the speaker when they first came to their apartment building? : 1227.3218, 1238.5245
+What neighborhood did the speaker used to think was north of Houston Street? : 1344.0841, 1352.7921
+Where did the speaker have a party when local law seventy-nine was passed? : 1512.5108, 1529.6691
+According to the speaker, how much does the apartment building next to Barrier Free Living require applicants to make to be considered for an apartment? : 1634.7906, 1667.9586
+Who does the speaker say is very good at painting doing nails and toenails? : 1789.5546, 1801.0671
+What was the name of the speaker's cat? : 1932.3108, 1934.5806
+What kind of people does the speaker say don't fit into any category? : 2167.4298, 2172.9729
+Who does the speaker say has an enormous amount of power? : 2365.5901, 2380.5145
+Does the speaker think that new people in their neighborhood care about the history of the area? : 2571.0323, 2578.0670
+What does the speaker think the demographics of their neighborhood will be in ten years? : 2735.8405, 2749.9658
+What does the speaker say that young people moving into the neighborhood want to do after work? : 2875.1514, 2893.5365

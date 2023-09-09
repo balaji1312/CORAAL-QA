@@ -1,0 +1,16 @@
+When was the speaker born? : 17.5771, 22.8063
+Where is the speaker's father from? : 104.2811, 113.9321
+Where is the speaker's mother from? : 104.2811, 119.6589
+When did the speaker's father move back to Georgia? : 287.9536, 294.3069
+What did the speaker play in on Twelfth Street as a child? : 368.5292, 380.5020
+What grade was the speaker in when they entered the Intellectually Gifted Children Program? : 520.4604, 529.1306
+What is the speaker's current job title? : 566.8460, 570.8405
+What did the speaker's mother like on her hot dogs? : 658.9591, 663.3535
+How much does the speaker say bus fare cost when they were younger? : 842.3217, 859.5183
+What did the speaker's father do for work? : 888.0968, 905.1388
+Does the speaker consider Fourteenth Street to be part of the Lower East Side? : 1047.5350, 1075.4071
+According to the speaker, what was the Palladium before it was a discotheque? : 1113.2631, 1123.1674
+How many times was the speaker spanked by their father as a child? : 1235.6826, 1242.6390
+Why did the speaker's aunt stop the speaker's sister from drinking from a water fountain? : 1386.7838, 1403.2042
+According to the speaker, what color were the busses in their area that were not privately owned? : 1519.8334, 1533.0054
+What neighborhood does the speaker currently live in? : 1593.0016, 1623.8420

@@ -1,0 +1,14 @@
+When was the speaker born? : 21.7504, 30.9808
+Where is the speaker's grandmother from? : 71.9983, 81.7564
+How many children did the speaker's grandmother have? : 127.9174, 130.2782
+When did the speaker's mother convert to Islam? : 263.3232, 275.7069
+Where did the speaker perform Midsummer Night's Dream in elementary school? : 396.0257, 410.8834
+Did the speaker get into fights often? : 709.1701, 715.6629
+In what field is the speaker's degree? : 942.6551, 950.2687
+What did the condo near the speaker's building used to be? : 1049.8566, 1062.2135
+Why did the speaker stop giving the wrong directions to people who asked them for directions? : 1242.8330, 1267.5909
+Does the speaker consider the Lower East Side and East Village to be two different neighborhoods? : 1326.7336, 1344.7619
+Why is the speaker's organization getting budget cuts? : 1609.7178, 1619.6206
+What would does the speaker want to see built in the large undeveloped plot of land in their neighborhood? : 1755.1191, 1781.7852
+How does the speaker describe their socioeconomic status? : 1886.8916, 1901.1363
+How does the speaker feel when they say that they're from the Lower East Side? : 2163.1764, 2167.2023

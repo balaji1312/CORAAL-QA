@@ -1,0 +1,25 @@
+When is the speaker's birthday? : 4.6272, 11.9561
+Where was the speaker born? : 18.4550, 21.5780
+How long has the speaker lived in Washington DC? : 45.9063, 50.4869
+What does the speaker do for work? : 112.8510, 122.8226
+Where were the speaker's parents born? : 129.9417, 136.4173
+Why was the speaker disliked by girls their age when they first moved to Washington DC? : 184.0956, 212.6157
+Why could the speaker get to the basket better than others in basketball? : 291.1006, 313.6598
+How did the speaker dress differently from other children in their class in middle school? : 416.0999, 431.0049
+How many siblings does the speaker have? : 665.9625, 671.1660
+How long did the speaker's mother and stepfather stay together? : 748.2512, 759.3254
+How old was the speaker when they met their husband? : 844.1125, 850.3282
+Where does the speaker's mother live? : 859.6411, 868.4851
+What subject in school did the speaker love? : 964.6662, 970.1349
+Who did the speaker move in with after high school? : 1125.5809, 1131.4317
+How old was the speaker when they had their daughter? : 1200.3402, 1203.0540
+When does the speaker say that the cougar came out? : 1451.1960, 1456.8101
+What does the speaker say people bragged about after King was killed? : 1645.7548, 1660.9582
+How do all the women in the speaker's family look? : 1793.0188, 1797.4460
+What did the speaker do on Saturdays with their family as a child? : 1867.2804, 1877.6733
+How did the speaker feel about having a granddaughter? : 2220.0876, 2229.6396
+How much did the speaker's son pay for an exterminator? : 2610.8858, 2617.5853
+According to the speaker, What did Marion Barry do for teenagers? : 2951.0311, 2961.3339
+Who were the police looking for when they raided the speaker's house? : 3238.3410, 3242.2287
+What is the name of the congo player that the speaker used to date? : 3577.0110, 3579.5196
+What is the speaker's favorite TV show? : 3947.7875, 3958.8876

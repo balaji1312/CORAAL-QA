@@ -1,0 +1,19 @@
+What church does the speaker say is on Fire Tower Road? : 26.6356, 37.1966
+What church is the speaker a member of? : 290.6134, 297.4890
+On what street was the speaker born? : 380.2441, 387.8728
+What did the speaker's mother do for work? : 439.9696, 458.4051
+Who woke up the speaker to tell them that the dam was going to break during the flood? : 699.1482, 716.0548
+Where did the mayor tell the speaker to go when the dam was going to burst? : 907.9933, 932.8027
+According to the speaker, where were the FEMA trailers put after the flood? : 1057.7450, 1065.6905
+Who rebuilt the speaker's house after the flood? : 1207.7498, 1227.5201
+Where did the speaker get their GED? : 1350.5096, 1362.0410
+According to the speaker, what is the Albemarle? : 1411.4326, 1430.9568
+How old was the speaker when they got their GED? : 1489.2669, 1504.1644
+What did the speaker lose in the flood? : 1690.3200, 1696.1591
+What organization helped rebuild the speaker's house? : 1751.2288, 1771.2906
+How long did the speaker live on Bell street? : 1797.2834, 1817.0395
+How much older is the speaker than their sister? : 1892.0906, 1907.8428
+How long did the speaker live in Alabama? : 2074.5709, 2092.7365
+How long did the speaker work at the plastic factory? : 2197.2669, 2208.566
+Where does the speaker sometimes go with their brother and sister? : 2602.8928, 2612.5450
+How many children does the speaker's youngest sister have? : 2695.4657, 2701.2622

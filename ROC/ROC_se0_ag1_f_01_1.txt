@@ -1,0 +1,17 @@
+﻿How long has the speaker lived on her street? : 83.3023, 90.3437
+How long has the speaker’s father lived on her street? : 98.1952, 108.3235
+Did the speaker play at any rec centers? : 273.7104, 283.5912
+Where did the speaker’s grandmother move to? : 304.3633, 309.2634
+Which side is more family oriented? : 348.0629,  361.5309
+In which grade did the speaker start dancing? : 487.4617, 505.5463
+Where did the speaker’s father work? : 627.1764,  635.1336
+What qualification did the speaker obtain? : 1052.8783, 1057.2465
+What qualification is the speaker currently working towards? : 1090.0425, 1103.7107
+Does the speaker travel a lot? : 1272.6637, 1277.0082
+Which place does the speaker feel is like a second home? : 1346.1634, 1360.2671
+How long is the speaker’s RN program? : 1384.0828, 1396.0672
+What is the speaker’s favorite thing about Rochester? : 1460.6334, 1467.0305
+Does the speaker think Rochester is a great place for young, black millennials? : 1596.7422, 1599.7869
+Where does the speaker’s brother live? : 1646.6078, 1649.3119
+Does the speaker think Rochester is segregated? : 1806.6567, 1812.2056
+Does the speaker think Rochester is a diverse place to live? : 2121.9186, 2134.1277

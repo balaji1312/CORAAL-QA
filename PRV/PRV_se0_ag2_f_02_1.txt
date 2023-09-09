@@ -1,0 +1,18 @@
+Where was the speaker raised? : 133.6396, 139.749
+When was the speaker born? : 265.7316, 269.6279
+Where were the speaker's parents born? : 280.7744, 289.7670
+How did the speaker do laundry when they were eight? : 472.0475, 483.1195
+How would the speaker's family get from their area to Tarboro? : 569.6125, 573.8517
+When did the speaker decide to go to college? : 690.8482, 700.2735
+Why did the speaker stay home from school a lot of the time? : 852.6938, 875.8476
+What time would the speaker get on the bus for school? : 1259.5834, 1267.5906
+What would the speaker use to make dolls as a kid? : 1375.1624, 1386.2813
+At what time of year does the speaker say that people in their town would kill hogs? : 1485.8878, 1494.4293
+In what grade did the speaker start going to a county school? : 1715.7600, 1721.5383
+Did the speaker pass their first driving test? : 1833.7334, 1857.8536
+Why does the speaker say that they were excited to see Black-owned stores? : 2308.1311, 2329.2055
+Who mainly influenced the speaker when they were growing up? : 2389.4102, 2395.2199
+What did the speaker get a degree in? : 2494.9369, 2498.6044
+Why did the speaker want to be a CPA? : 2556.6369, 2571.8395
+Where was the speaker's daughter born? : 2613.0198, 2618.7043
+Where did the speaker work as a credit manager? : 2653.9731, 2660.9635

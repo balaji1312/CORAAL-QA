@@ -1,0 +1,26 @@
+What was the name of the hospital in which the speaker was born? : 0.3310, 8.7968
+Where did the speaker grow up until they were ten? : 32.3772, 37.7244
+What is the speaker's job? : 112.8416, 121.6201
+Where was the speaker's father born? : 137.2898, 140.9539
+Where was the speaker's mother born? : 154.2294, 157.8236
+According to the speaker, what were the racial demographics of Hyattsville? : 348.2455, 355.9675
+How many children were in the speaker's fourth grade class? : 521.0557, 529.4300
+What did the speaker write their college essays on? : 608.8827, 631.7690
+How old was the speaker when their family found their brother? : 912.1814, 926.2820
+How many children does the speaker's father's brother have? : 1017.3549, 1023.9352
+Did the speaker go bike riding often in high school? : 1288.4340, 1302.9151
+What main activity did the speaker do instead of dance in high school? : 1567.4834, 1576.5821
+What church was the speaker's grandmother a member of? : 1692.7071, 1700.4319
+How does the speaker describe their weight as a child and adult? : 2088.6310, 2092.8171
+Who would the speaker feel bad for at swim meets? : 2215.1553, 2227.4450
+Where did the speaker's godsister live? : 2444.5954, 2448.4088
+Where did the speaker go in the summer between eleventh and twelfth grade? : 2546.9244, 2550.0861
+What was the speaker's major in college? : 2653.1872, 2656.7883
+Where did the speaker work as an admin assistant? : 2759.3474, 2768.9803
+When did the speaker get their acceptance letters for law school? : 2873.9998, 2901.7631
+What degree does the speaker say that they should have gotten in hindsight? : 3004.1255, 3010.1145
+Where did the speaker work during every summer in high school? : 3153.0555, 3166.9367
+In what neighborhood does the speaker live now? : 3315.8149, 3319.6042
+Where did the speaker's mother live while they were in college? : 3620.9244, 3628.7814
+What movie does the speaker say won the last Oscars? : 3743.0057, 3751.7498
+What food does the speaker eat with mumbo sauce? : 4101.3467, 4117.6600

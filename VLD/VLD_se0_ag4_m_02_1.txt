@@ -1,0 +1,13 @@
+What instruments did the speaker play? : 134.6936, 138.3837
+How old was the speaker when they learned they were adopted? : 271.2117, 275.3605
+How many siblings does the speaker have? : 489.4530, 492.8058
+What did the speaker learn at the 4-H club? : 693.6361, 710.7325
+Where did the speaker go in highschool for band camp? : 1014.2372, 1018.0524
+What job did the speaker have when working at the paint shop? : 1222.1113, 1233.0353
+How many kids does the speaker have with their first wife? : 1548.3444, 1549.2604
+How much did the speaker charge for the job they were originally going to do for free? : 1999.0018, 1999.9592
+How did the speaker learn that they were adopted? : 2235.4486, 2276.1235
+What was the one thing the speaker says they cannot do? : 2568.7052, 2572.2438
+What does the speaker compare plumbing to? : 2623.5166, 2633.8745
+How does the speaker explain Star Trek? : 2791.6012, 2795.9750
+How old was the speaker when they thought they saw a UFO? : 2896.8120, 2903.1445

@@ -1,0 +1,9 @@
+According to the speaker, how many fire departments are in Tarboro? : 32.0059, 49.0781
+When the speaker got a call about a trailer on fire, did they find any casualties there? : 153.5679, 164.9809
+Is the speaker bothered by the sight of blood? : 263.7669, 285.3833
+What is the highest grade level in school that the speaker entered? : 419.2557, 427.4757
+Where did the speaker buy the new car they had? : 632.2540, 641.6391
+According to the speaker, what is a ten fifty? : 854.4889, 857.5730
+What color does the speaker say the trailers at Lakeside are? : 966.4249, 979.9869
+How much would the speaker's aunt pay to have her grass cut? : 1074.5764, 1101.9905
+How many grandchildren does the speaker have? : 1310.5184, 1326.0996

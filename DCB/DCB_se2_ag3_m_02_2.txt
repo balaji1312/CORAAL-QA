@@ -1,0 +1,10 @@
+What did the speaker think when a neighborhood he walked through got shut down? : 84.6983, 95.3274
+What does the speaker say people in the area do that brings down the property value? : 133.3930, 149.7004
+What does the speaker say throwing trash on the ground correlates to? : 255.1824, 280.1617
+How long has the speaker been going to the drum circle in Malcolm X Park? : 299.0103, 308.2778
+What does the speaker think was the worst thing that happened to the Black community in the US? : 428.0960, 436.1104
+Who was the speaker mad at for claiming that New York started calling people bamas? : 598.0124, 604.3295
+What does the speaker say is happening to HIV infection rates in PG county? : 658.4181, 661.0527
+What band did the speaker see on the Fourth of July? : 846.4985, 852.6804
+What does the speaker say is the best condiment? : 877.1624, 885.6197
+Does the speaker like light mumbo sauce? : 967.1158, 979.2790

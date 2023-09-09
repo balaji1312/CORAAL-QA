@@ -1,0 +1,27 @@
+When is the speaker's birthday? : 0.5009, 4.9202
+Where was the speaker born? : 6.8646, 9.3721
+What is the speaker's job? : 113.1906, 115.9638
+Where was the speaker's father born? : 122.0105, 125.8201
+Where was the speaker's mother born? : 129.2789, 133.2004
+What did the speaker's father do for work? : 136.3094, 138.9625
+What did the speaker's mother do for work? : 141.9456, 146.0723
+How many blocks wide did the speaker consider their childhood neighborhood to be? : 309.2322, 323.4518
+Why did most children in the speaker's neighborhood go to private schools? : 383.5450, 396.8087
+Why does the speaker say that both white collar and blue collar people could afford to live in their childhood neighborhood? : 532.2534, 554.0583
+What style house was the speaker's childhood home? : 792.7154, 805.8625
+How much would the house that the speaker lived in when they first got married sell for now? : 872.3323, 882.8040
+What is the age difference between the speaker and their siblings? : 974.7380, 987.3768
+What TV channels did the speaker have as a child? : 1157.0228, 1162.7430
+Did the speaker get a lot of attention from boys in ninth grade? : 1464.1892, 1484.4916
+What neighborhood does the speaker say was Hispanic? : 1871.3686, 1876.4733
+Why didn't the speaker want anybody to know when they got As in school? : 2089.2372, 2104.8794
+Has the speaker noticed prominent differences in opportunity for lighter skinned people and darker skinned people in the city? : 2258.5009, 2278.1935
+Where is the speaker's ex husband from? : 2537.8582, 2547.6480
+Why didn't the speaker's mother go to the March on Washington? : 2639.3592, 2667.1805
+According to the speaker, what was the name of the bridge that separated Southeast from the rest of the city? : 2700.7383, 2710.0944
+When did the speaker have their first depressive episode? : 2923.7361, 2937.4509
+What was the speaker's major in college? : 3353.2275, 3355.7967
+Who pushed the speaker into being an attorney? : 3360.1740, 3367.2885
+In what neighborhood does the speaker say the Frederick Douglass house is? : 3649.7361, 3658.3135
+What first turned the speaker on to go go music? : 3938.2304, 3943.9879
+Why does the speaker say that a carry out restaurant is called a carry out? : 4127.9316, 4137.1152

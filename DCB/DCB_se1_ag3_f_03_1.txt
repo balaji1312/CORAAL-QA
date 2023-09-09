@@ -1,0 +1,18 @@
+When was the speaker born? : 0.5018, 4.7240
+Where was the speaker born? : 6.7023, 9.1829
+Has the speaker lived anywhere besides their current area? : 19.1033, 35.5132
+What does the speaker do for work? : 49.2105, 70.4454
+Where are the speaker's parents from? : 68.6829, 73.3865
+What does the speaker's father do for work? : 82.0433, 85.9846
+When did the speaker start to see drugs in their area? : 303.7723, 334.7793
+How did the speaker like about their high school experience? : 723.9810, 768.1323
+How did the speaker meet their good friends from high school? : 800.4956, 827.5242
+How long did the speaker teach preschool? : 830.8732, 835.3525
+Did the speaker's son play any sports? : 977.3232, 992.2451
+How many children does the speaker have? : 1453.9818, 1457.2044
+Does the speaker have any siblings? : 1626.0392, 1631.4843
+What does the speaker say a lot of adult's don't understand about working with children? : 1946.9439, 1964.3895
+What are the speaker's favorite bands? : 2078.1732, 2110.4498
+What does the speaker remember about the street they grew up on? : 2719.0085, 2740.4892
+How much was the rent payment for the speaker's first apartment? : 3180.6778, 3199.4131
+What is the speaker's goal for the future? : 3448.8167, 3488.6626

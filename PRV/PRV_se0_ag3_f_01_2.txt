@@ -1,0 +1,4 @@
+What does the speaker have regrets about? : 67.7193, 83.8089
+Where did the speaker stay from November to January? : 235.2706, 242.7710
+Why wouldn't the speaker take a bath in their trailer? : 429.8650, 445.5965
+Does the speaker believe that the love in their town has always existed? : 658.1148, 665.0076

@@ -1,0 +1,18 @@
+When is the speaker's birthday? : 0.2801, 4.8546
+Where was the speaker born? : 7.7249, 10.6978
+What grade in school is the speaker? : 33.6367, 34.9510
+Where was the speaker's mother born? : 59.8430, 66.0099
+Where was the speaker's father born? : 63.3598, 67.5306
+Where does the speaker's mother work? : 75.4966, 77.2650
+Where does the speaker's father work? : 77.8998, 79.6948
+Does the speaker have siblings? : 100.5209, 107.0056
+Does the speaker have any family traditions? : 426.5897, 440.6145
+What does the speaker want to study in the future? : 701.7389, 704.2658
+Where does the speaker want to work in the future? : 705.1263, 707.9143
+What is the speaker's favorite subject in school? : 766.8151, 769.740
+Why does the speaker like their favorite teacher? : 974.0675, 988.4661
+What is something that the speaker dislikes? : 	1076.1754, 1084.7593
+What does the speaker like to do for fun? : 1111.2098, 1116.9819
+What does the speaker like about living in their area? : 1243.4773, 1257.7449
+How does the speaker commute in their area? : 1257.8758, 1263.6769
+Does the speaker like to talk to people? : 1677.6369, 1691.8683

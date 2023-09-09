@@ -1,0 +1,2 @@
+How many students does the speaker say lived near the riots when Doctor King was killed? : 123.2938, 136.6459
+On what street was the church that the speaker's family attended? : 199.4957, 207.1026

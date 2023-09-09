@@ -1,0 +1,20 @@
+When was the speaker born? : 20.7531, 24.3808
+Where does the speaker say that the heart of their family is? : 80.8160, 87.5164
+According to the speaker, how long would players have to hide when they played manhunt? : 225.5693, 250.1819 
+Where did the speaker play basketball when they were younger? : 416.1551, 422.6830
+How many siblings does the speaker have? : 506.5384, 514.5770
+When did the speaker's father pass away? : 539.9146, 543.7108
+What did the speaker's father do for work? : 668.2840, 672.5146
+Where was the candy store in the speaker's neighborhood as a child? : 942.6262, 955.0417
+What would the speaker hear in the summertimes in their neighborhood while growing up? : 1092.0822, 1102.0590
+Did the speaker plan to attend a historically Black college? : 1248.6599, 1263.4222
+How did the speaker feel on their first ever day of school? : 1504.6961, 1508.6859
+Where did the speaker travel to for school in eighth grade? : 1703.9366, 1712.7446
+Where did the speaker first get into poetry? : 1820.1003, 1830.1973
+What was the weather during the speaker's freshman orientation in college? : 1977.9244, 1995.0944
+When did the speaker graduate from college? : 2088.6778, 2094.1505
+In what field did the speaker get their master's degree? : 2096.0466, 2101.3451
+What district in the city council did the speaker work for? : 2251.3590, 2262.2963
+What position does the speaker's mother have in their development? : 2427.4945, 2435.8207
+Why did the Chinese restaurant that the speaker liked shut down? : 2602.4910, 2616.5851
+What does the speaker say is the northern boundary of the Lower East Side? : 2740.7145, 2762.8621

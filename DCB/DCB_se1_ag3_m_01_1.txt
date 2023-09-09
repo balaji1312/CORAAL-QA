@@ -1,0 +1,14 @@
+How long has the speaker been in their current area? : 5.7919, 7.9542
+Where was the speaker born? : 8.8574, 12.8840
+What did the speaker's mother do for work? : 83.4259, 95.7766
+What did the speaker's father do for work? : 117.6223, 130.1633
+How often did the speaker see their grandmother while growing up? : 146.2825, 152.0334
+Are there new buildings being built in the speaker's area? : 469.0307, 485.5651
+Where does the speaker's brother live? : 517.1360, 523.8886
+Did the speaker like going to school? : 1072.4582, 1085.7949
+What would the speaker do after school? : 1310.4370, 1335.1087
+What was the speaker's favorite video game? : 1370.5574, 1385.7759
+What is the speaker studying? : 1840.8153, 1846.5902
+What is a food that the speaker has struggled to make? : 1922.6234, 1945.1490
+What is the speaker's goal for the future? : 2019.2301, 2047.3282
+What does the speaker say is the cutest thing they've seen from their kids? : 2340.2216, 2362.7672

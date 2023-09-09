@@ -1,0 +1,24 @@
+When is the speaker's birthday? : 0.2364, 4.1256
+Where was the speaker born? : 10.0134, 12.6268
+What does the speaker want to major in during college? : 63.0625, 68.4766
+Where was the speaker's father born? : 92.8656, 94.9300
+Where was the speaker's mother born? : 92.8656, 98.9657
+What does the speaker's father do for work? : 106.5873, 109.8980
+What does the speaker's mother do for work? : 146.0315, 149.6550
+When did the speaker's grandfather pass away? : 233.0211, 237.3428
+How many siblings does the speaker have? : 389.0144, 394.0535
+What is the speaker's favorite subject in school? : 477.5763, 486.3232
+What was the speech that the speaker gave in fifth grade about? : 806.9781, 821.0644
+Who does the speaker say committed suicide? : 979.5175, 984.2803
+What helped the speaker build confidence the most? : 1147.9170, 1155.5632
+What is the speaker's most fun memory at the Boys and Girls Club? : 1272.7472, 1287.5914
+What was the speaker's favorite high school memory? : 1492.6180, 1497.8641
+What does the speaker say happens to kids who don't have on designer clothes? : 1991.7882, 1996.3016
+Why hasn't the speaker's school changed because of gentrification? : 2280.1441, 2285.8459
+What does the speaker do for fun? : 2363.3558, 2379.4346 
+What are the speaker's top three choices for college? : 2493.8714, 2504.8140
+What can the speaker see from the fire pit in their backyard? : 2607.3033, 2620.1867
+How many times has the speaker been to the African American History Museum? : 2641.8855, 2665.4812
+What is the speaker's favorite restaurant in Washington DC? : 2715.5555, 2724.7139
+Who is the speaker's favorite artist? : 2805.4294, 2811.4995
+Does the speaker pour mumbo sauce on their chicken? : 3016.2771, 3035.0164

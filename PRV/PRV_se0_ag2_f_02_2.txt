@@ -1,0 +1,8 @@
+How old was the speaker when their father became a minister? : 143.6350, 158.4881
+How many younger siblings does the speaker have? : 201.4208, 205.1230
+What church did the speaker's mother go to? : 220.3526, 231.3024
+According to the speaker, what is the oldest Black church in Princeville? : 419.3027, 443.3754
+What did the speaker's grandfather do for work? : 520.9412, 544.5839
+When did the speaker's parents move to Princeville? : 830.2944, 846.8289
+Where does the speaker's sister live? : 1023.8101, 1031.3657
+What is the street behind the speaker's parents' house? : 1198.6050, 1205.7579

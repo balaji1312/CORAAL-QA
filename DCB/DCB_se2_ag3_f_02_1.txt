@@ -1,0 +1,22 @@
+When is the speaker's birthday? : 0.5642, 7.5960
+Where was the speaker born? : 10.2453, 18.1471
+What does the speaker do for work? : 95.0227, 102.3104
+Where was the catering company that the speaker worked at? : 152.0098, 160.4305
+Where were the speaker's parent's born? : 302.5303, 307.4000
+What does the speaker's fathered for work? : 312.7018, 325.4653
+What does the speaker's mother do for work? : 326.1799, 330.4808
+How old was the speaker's mother when the speaker was born? : 362.3868, 366.4307
+When was the speaker's great-grandmother born? : 429.0708, 435.5947
+Why does the speaker say that go go music was popular? : 625.7495, 644.4402
+What does the speaker say was the difference between people from uptown and people from Southeast? : 708.0904, 736.4381
+Where did the speaker's grandfather work? : 880.7591, 884.1766
+What were the names of the speaker's father's neighbors? : 986.9574, 993.9650
+Does the speaker think that the metro in Washington DC is good? : 1229.4164, 1248.3373
+How does the speaker say that Black people feel about gentrification in the area? : 1438.4500, 1450.5568
+Where did the speaker get their degree? : 1584.9692, 1591.4697
+According to the speaker, what is the real economic problem with people in Washington DC? : 1720.7837, 1747.1927
+What goal does the speaker have for their business? : 1991.1153, 2007.6672
+At what time was the area the contentious that the speaker had seen? : 2627.1168, 2651.2469
+Has the speaker seen many biking trails in Maryland? : 2857.6392, 2872.0315
+Why does the speaker enjoy being a Lyft driver? : 2908.6597, 2933.6640
+Has the speaker had problems with a caterer before? : 3220.1759, 3239.8441

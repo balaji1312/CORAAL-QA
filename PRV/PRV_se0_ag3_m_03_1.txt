@@ -1,0 +1,13 @@
+How high above the speaker's house did the flood waters rise? : 213.5144, 229.5690
+On what street is the speaker's house? : 241.6353, 247.8956
+When did the speaker move to Princeville? : 372.7974, 379.0057
+How many Black soldiers served in the speaker's outfit? : 653.0270, 661.2592
+How long did the speaker serve in the army? : 1045.8305, 1050.2590
+What area did the speaker's father help build? : 1128.9595, 1136.1192
+When was the speaker born? : 1167.7428, 1174.9864
+What kind of car did the speaker's father buy? : 1216.9336, 1228.2019
+What is the highest level in school that the speaker entered? : 1344.9737, 1348.2114
+How long was the speaker in military training? : 1448.4189, 1462.8756
+How many children does the speaker have? : 1660.4117, 1680.8143
+Where does the speaker's daughter live? : 1729.4391, 1732.0330
+According to the speaker, how much did Joe Louis weigh? : 2090.4804, 2094.0522

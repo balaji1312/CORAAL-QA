@@ -1,0 +1,19 @@
+According to the speaker, what is the name of the music store on Utica Ave? : 13.8793, 23.0845
+What kind of movies did the speaker used to love? : 145.9512, 157.1237
+How many teenagers lived in the speaker's old neighborhood? : 220.3614, 242.9727
+What was the speaker's favorite pastime while growing up? : 324.9145, 329.0542
+What was the minimum wage when the speaker was 20? : 382.3834, 396.7524
+How often did the speaker used to donate blood? : 635.1541, 656.6541
+When did the speaker start a car detailing business? : 708.4200, 720.3917
+How much did the speaker's business charge used car dealers for a motor wash? : 826.7366, 837.5089
+Does the speaker smoke cigarettes? : 975.4191, 983.6787
+How many children does the speaker have? : 1111.6046, 1116.2327
+How many wives has the speaker had? : 1212.6054, 1220.6394
+How much does the speaker's nephew pay in rent? : 1478.5164, 1488.4093
+Why wouldn't the speaker park their car past Avenue B? : 1527.3669, 1534.4054
+Why was one of the speaker's acquaintances called Froggy? : 1675.9759, 1682.4124
+Has the speaker ever been robbed? : 1812.4090, 1821.5480
+According to the speaker, before what year were yuppies increasing the prices in their neighborhood? : 	2043.8324, 2063.6701
+According to the speaker, how many NYU dorms are on Third Ave and Fourteenth Street? : 2297.5846, 2308.4675
+When did the speaker retire? : 2402.6335, 2406.1919
+On what street did the speaker's friend die in a motorcycle accident? : 2615.2848, 2656.2368

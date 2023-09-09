@@ -1,0 +1,6 @@
+What did the speaker comment about African American Discrimination?: 20.1056, 21.7327
+Where did the speaker’s mother work?: 94.9718, 97.5587
+What was the speaker’s mother doing?: 163.8652, 166.0982
+Where would the speaker go if he wasn’t allowed to step in with their mother during work?: 180.4639, 188.0372
+How did the speaker reach Charlotte Beach?: 195.8041, 198.1506
+Where was the speaker taken to when he had to use the bathroom?: 222.4062, 227.6413

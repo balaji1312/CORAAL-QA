@@ -1,0 +1,12 @@
+Where was the speaker born? : 0.2748, 4.2522
+What does the speaker do for work? : 58.3595, 69.7300
+What does the speaker want to do for work in the future? : 102.3027, 105.4175
+Where was the speaker's mother born? : 809.9351, 814.5840
+Where was the speaker's father born? : 816.8863, 820.9580
+Does the speaker have any siblings? : 900.3921, 924.7931
+Where did the speaker's grandfather work? : 1036.6948, 1047.4929
+How did the speaker's extracurricular activities affect their life? : 2544.2069, 2551.8806
+What is the speaker planning to study in the future? : 3222.9772, 3241.6541
+What is the speaker's favorite movie? : 3338.7529, 3353.9174
+Where has the speaker toured in their area? : 3607.5513, 3616.6153
+What is the speaker's favorite place to spend time in the area? : 3867.9287, 3881.9108

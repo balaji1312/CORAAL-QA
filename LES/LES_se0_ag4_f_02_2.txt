@@ -1,0 +1,9 @@
+What foreign language did the speaker learn in school? : 156.2200, 170.7451
+Where did the speaker's classmate, Kwame, go to college? : 197.2787, 207.5803
+How did the speaker know Spike Lee in college? : 362.0741, 373.2392
+How old was the speaker when they graduated from high school? : 530.9138, 540.3955
+When did the speaker return to their neighborhood after college? : 644.4903, 656.8158
+Where did the speaker live when they worked at City Corp? : 663.1234, 672.9742
+What street did the speaker live on in Baltimore? : 870.6648, 875.8820
+According to the speaker, what race makes up the majority of Stuyvesant Town : 968.2475, 973.7010
+According to the speaker, what section of the Lower East side has become mostly Black and Hispanic? : 1143.5302, 1149.9156

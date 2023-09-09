@@ -1,0 +1,33 @@
+What does the speaker usually dress up as for Halloween? : 6.6836, 12.0464
+Where was the speaker born? : 19.8348, 22.6847
+Where does the student go to college? : 95.3866, 97.1760
+What does the student study in college? : 105.5826, 110.0804
+Where was the speaker's father born? : 117.4492, 121.4276
+Where was the speaker's mother born? : 124.3407, 131.4709
+What is the speaker's father's job? : 140.6841, 145.2943
+What is the speaker's mother's job? : 184.0950, 196.5724
+How would the speaker get to the house of her best friend from elementary school? : 355.2592, 362.7543
+How many siblings does the speaker have? : 541.0376, 544.0403
+What were the speaker's favorite subject in school? : 647.2547, 668.6240
+What subject does the speaker want to do research on? : 762.0559, 766.9842
+What does the lab that the speaker works in specialize in? : 818.4726, 824.4655
+What grade was the speaker getting in math in eighth grade? : 897.3716, 905.6369
+Why wasn't the speaker's fifth grade math teacher interested in teaching? : 1010.0762, 1019.7077
+Why did the speaker choose Georgetown for college? : 1162.3981, 1172.9965
+How does the speaker say that AAE is perceived in professional spaces? : 1310.9115, 1314.4227
+Where does the speaker feel like they have the liberty to speak AAE? : 1334.2815, 1343.4316
+How many years has the speaker been an RA? : 1381.5807, 1385.5944
+Why does change make the speaker uncomfortable? : 1647.1664, 1660.8438
+Why does the speaker's mother want them to go to graduate school? : 1740.3660, 1751.1201
+What is the speaker's position in the Black Student Alliance at their school? : 1789.0639, 1792.6034
+Why does the speaker typically stay in Northwest? : 1901.9950, 1906.4122
+How old is the speaker's father? : 2023.3754, 2024.9610
+What is the name of the night club that the speaker says is on Georgia Avenue? : 2055.4566, 2061.9379
+Why has the speaker's mother had difficulty becoming a registered architect? : 2296.6783, 2319.5344
+Does the speaker's family have any family traditions? : 2464.8553, 2480.0549
+What is the speaker's favorite restaurant? : 2505.7822, 2511.8601
+Why was it harder for the speaker to become friends with people in the scholarship program during their freshman year? : 2704.6287, 2723.0614
+What is the demographic makeup of the speaker's current neighborhood? : 2780.7982, 2791.0568
+How many times has the speaker been to a go go? : 2859.3433, 2862.6321
+How does the Black community connect in the speaker's school? : 3178.3627, 3182.0788
+Has the speaker had mumbo sauce? : 3340.6459, 3350.6567

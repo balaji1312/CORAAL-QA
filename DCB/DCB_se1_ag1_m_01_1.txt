@@ -1,0 +1,16 @@
+Where was the speaker born? : 0.4056, 5.5318
+Where does the speaker want to work in the future? : 43.4683, 58.1039
+Where does the speaker's mother work? : 120.1274, 123.7890
+Where does the speaker's father work? : 131.1962, 133.1231
+Does the speaker have any siblings? : 216.9919, 221.5733
+How does the speaker feel about living in their area? : 256.1713, 292.9694
+What has been the speaker's most influential experience? : 686.7880, 702.7744
+What is the speaker's favorite subject in school? : 1168.7852, 1173.3807
+How has the speaker's area changed over time? : 1192.5504, 1219.9334
+Does the speaker feel pride in coming from their area? : 1228.1323, 1261.6378
+How does the speaker stay positive in times of adversity? : 1315.2145, 1335.5866
+How did the speaker feel about graduating high school? : 1508.7945, 1528.6662
+What does the speaker do for work? : 1533.3161, 1543.1739
+What is the speaker's favorite social media site? : 1863.5215, 1872.2890
+What is the speaker's favorite TV show? : 2248.9005, 2270.8365 
+What does the speaker do for fun? : 2532.7398, 2538.7623

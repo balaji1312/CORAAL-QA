@@ -1,0 +1,17 @@
+When was the speaker born? : 11.3737, 16.1111
+Where did the speaker's parents grow up? : 16.7397, 20.0819
+What does the speaker's mother do for work? : 29.2002, 32.7712
+What does the speaker's father do for work? : 32.7712, 33.6220
+Does the speaker have any siblings? : 147.1448, 157.0662 
+What did the speaker do for fun as a child? : 207.8022, 222.3346
+Was the area that the speaker grew up in as a child safe? : 223.1229, 245.3737
+How did the speaker's family celebrate holidays? : 353.7340, 404.0605
+How was elementary school for the speaker? : 914.2173, 953.8441
+Did the speaker play a musical instrument? : 1155.1148, 1160.6911
+Did the speaker do any extracurricular activities in school? : 1167.6620, 1185.0414
+How does the speaker describe their favorite teacher? : 1275.5819, 1313.9054
+What was the speaker's best memory as a child? : 1540.7097, 1576.4080
+Are the neighborhoods in the speaker's area similar? : 2045.1331, 2059.7010
+Does the speaker plan to live in their current area in the future? : 2588.6162, 2619.3102
+What does the speaker do for fun? : 2827.3891, 2850.4975
+What is the speaker's favorite restaurant? : 3232.3294, 3248.4067

@@ -1,0 +1,6 @@
+Where did the speaker’s Father’s family live?: 21.6931, 26.2774
+Did the speaker enjoy their time at Rochester?: 396.5097, 404.4710 
+Did the speaker mention being into Rugby?: 324.9384, 328.3523
+What did the speaker major in?: 333.7967, 340.4355
+What did the speaker mention about her comic, science and technology interests?: 620.2325, 633.6404
+What did the speaker state as the major differences between Pittsford?: 720.3713, 745.3152

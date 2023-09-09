@@ -1,0 +1,18 @@
+﻿On what day of the week do the shows take place? : 38.7301, 58.4119
+What sports did the speaker play at his school? : 240.0658, 246.3147
+Who had an office inside the speaker’s middle school? : 326.9255, 341.7430
+What song was everyone listening to on their Walkmans? : 353.9234, 361.1871
+What was the speaker’s major in Community College ? : 554.1494, 557.0142
+What did majoring in theater help out with for the speaker? : 657.3900, 669.3883
+What was the cost of the theater class? : 761.3077, 776.0748
+What brand of jeans did the speaker wear? : 886.4375, 899.2657
+What play did the speaker choose for the Shakespeare competition? : 981.6806, 998.0642
+What song got the speaker into writing rap songs? : 1082.8555, 1084.8838
+What type of rapper does the speaker consider himself to be? : 1163.1914, 1174.1451
+What does the speaker consider to be the bad parts of Rochester? : 1525.0762, 1534.7389
+Where do youth parties nowadays inappropriately happen? : 1600.4730, 1610.4365
+What is the most well known sauce from Rochester? : 1929.2119, 1955.7410
+Where does the speaker wish to move to? : 2032.2628, 2041.7227
+What are some of the stereotypes about black residents in Rochester? : 2161.8536, 2170.0266
+What type of black person does the speaker describe himself as? : 2308.8383, 2311.2210
+What does the speaker think about feminism in Rochester? : 2434.0237, 2438.5222

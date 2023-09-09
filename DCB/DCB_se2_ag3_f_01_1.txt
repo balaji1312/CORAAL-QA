@@ -1,0 +1,21 @@
+How old is the speaker? : 3.8829, 7.1269
+Where is the speaker from? : 7.5473, 9.0101
+How many children did the speaker's grandparents have? : 22.0063, 34.3333
+What was Largo high school in Maryland known for? : 124.9272, 127.8309
+What was the speaker's first job? : 244.1932, 252.5196
+Where was the speaker stationed when they were in the military? : 299.0949, 316.3500
+What does the speaker say Washington DC's nickname was? : 369.5659, 375.0053
+What did the speaker do at union station when they were younger? : 455.7881, 484.9939 
+What current trend with young people does the speaker dislike? : 530.5549, 548.4581
+What is the speaker's favorite music group? : 708.7817, 719.2268
+What is the name of the famous fish restaurant that the speaker mentions? : 988.4961, 998.5301
+Why didn't the speaker hang out in Virginia when they were younger? : 1131.2975, 1148.4659
+How many friends did the speaker lose to gun violence in the nineties? : 1225.8194, 1234.0657
+Why didn't the speaker re-enlist in the army? : 1424.1297, 1438.8431
+What is the speaker's job? : 1524.6349, 1540.8531
+What is the speaker getting their degree in? : 1852.6146, 1855.0578
+What job does the speaker want in the future? : 1861.9586, 1884.2603
+In what area does the speaker most want to improve? : 1991.8499, 1996.7180
+When will the speaker be going to a toast masters club meeting? : 2078.1388, 2092.1408
+What does the speaker's civic association give to high school seniors before they graduate? : 2279.4829, 2305.7117
+What football team does the speaker say has the most loyal fans? : 2515.2112, 2520.8682

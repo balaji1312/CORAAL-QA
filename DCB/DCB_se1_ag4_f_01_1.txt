@@ -1,0 +1,10 @@
+Where was the speaker born? : 0.2851, 2.7716
+What elementary school did the speaker attend? : 25.3185, 30.9719
+Where was the speaker's father born? : 43.8755, 50.4853
+Where was the speaker's mother born? : 54.1444, 56.6542
+Does the speaker have any siblings? : 64.5787, 71.7015
+What did the speaker's father do for work? : 91.0265, 95.7849
+What did the speaker's mother do for work? : 99.9773, 103.5722
+Was the speaker's first childhood home torn down? : 216.9641, 223.1561
+How many bedrooms did the speaker's largest childhood home have? : 343.7092, 351.8183
+How old was the speaker when their mother saw them again after leaving home? : 	492.3847, 498.0461

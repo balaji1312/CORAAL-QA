@@ -1,0 +1,16 @@
+﻿Which part of Rochester did the speaker grow up in? : 13.4019, 25.6566
+Did the speaker enjoy their time growing up? : 77.2003, 82.9997
+What does the speaker compare the future of her neighborhood to? : 322.8181, 338.0275
+When did the speaker graduate from her school? : 445.1371, 459.1363
+What did the speaker buy with money from her summer job? : 684.2986, 695.6085
+What was the speaker’s job after graduation? : 716.9611, 727.3291
+What did the speaker major in? : 836.7699, 844.6712
+Where does the speaker currently work? : 985.0634, 992.6767
+Where was the speaker’s wife born? : 1064.1387, 1071.2112
+Does Rochester have adequate LGBTQ welfare programs? : 1419.3589, 1448.3668
+What dance is popular in the black gay community? : 1720.1602, 1745.1100
+What is the speaker’s favorite thing about Rochester? : 1801.1168, 1821.0659
+What does the speaker dislike about Rochester? : 1979.5676, 1991.0594
+Are younger people at the speaker’s workplace conservative? : 2114.4948, 2119.1425
+What do other people think about the speaker’s accent? : 2784.6225, 2801.8531
+What is a liquor store called in Boston? : 2950.4288, 2957.8136

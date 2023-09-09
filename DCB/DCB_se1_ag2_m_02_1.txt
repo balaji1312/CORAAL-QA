@@ -1,0 +1,11 @@
+How old is the speaker? : 0.7925, 3.7547
+Where is the speaker from? : 4.8825, 7.8298
+What is distinct about the speaker's area? : 8.3942, 34.2327
+How does the speaker describe their neighborhood? : 133.5926, 159.8225
+Where is the speaker's mother from? : 349.5363, 359.5340
+Where is the speaker's father from? : 370.1414, 380.7285
+What about the speaker's area has changed since they were a child? : 484.6865, 513.5963 
+Does the speaker have any family that live in the area? : 883.5660, 927.9786
+Does the speaker have any siblings? : 1006.1485, 1024.4050
+How did the speaker's family celebrate birthdays during their childhood? : 1188.9842, 1226.4424
+What are the speaker's religious beliefs? : 1311.7096, 1338.6939

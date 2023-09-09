@@ -1,0 +1,30 @@
+Where was the speaker born? : 0.5292, 5.5632
+How long did the speaker live in Richmond? : 25.5716, 34.0231
+Where did the speaker attend college? : 73.7518, 76.3170
+What does the speaker do for work? : 81.5350, 90.0347
+Where was the speaker's father born? : 92.6677, 97.8682
+Where was the speaker's mother born? : 119.2468, 121.3598
+What did the speaker's mother do for work? : 176.6229, 183.2598
+Does the speaker have siblings? : 198.6323, 201.8853
+After what time was the speaker not allowed to use the phone while they were growing up? : 346.7584, 349.4837
+Why did the speaker's parents enroll them in a Catholic school? : 468.5696, 481.9033
+Who brought the speaker's mother to Washington DC? : 509.2067, 516.2816
+What family tradition does the speaker have? : 573.9218, 597.6482
+In what year did the speaker graduate from high school? : 632.6345, 639.4773
+Where was the speaker's after school job when they were sixteen? : 855.2881, 867.1089
+What does the speaker say that it was cool for dark skin men in the sixties and seventies to have? : 1070.4183, 1089.2580
+How did the speaker get to school in high school? : 1254.5276, 1268.3056
+What after school activities did the speaker do? : 1361.0965, 1366.2908
+At what age did the speaker get their driver's license? : 1530.3835, 1535.3135
+What were the speaker's grades in their first semester of college? : 1684.3442, 1694.0563
+Why did the speaker wait until their senior year to take algebra? : 2005.8753, 2024.7232
+What job did the speaker do while in school? : 2080.2666, 2090.5241
+What work did the speaker do at Traveler's Insurance? : 2161.8488, 2168.8596
+In what year did the speaker marry their first husband? : 2224.8113, 2239.5975
+At what hospital did the speaker work in billing? : 2440.2096, 2451.3704
+How long did the speaker work for the Group Health Association? : 2455.6882, 2470.8986
+How long did the speaker work for the National Children's Alliance? : 2694.9727, 2704.3448
+How old was the speaker when their twins were born? : 2938.1428, 2941.5559
+According to the speaker, why don't transplants in Washington DC know how to parallel park? : 3151.2084, 3158.3675
+What church is the speaker's aunt a member of? : 3372.6654, 3389.7726
+Where was the speaker when go go music became popular? : 3629.5278, 3633.0866

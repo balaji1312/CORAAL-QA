@@ -1,0 +1,18 @@
+﻿Where in Rochester did the speaker grow up? : 18.5505, 31.6898
+Where are the speaker’s grandparents from? : 81.9065, 84.3812
+What word does the speaker use to describe his neighborhood growing up? : 143.7582, 148.8648
+How many step children does the speaker have? : 242.8570, 251.4323
+Which side of Rochester does the speaker currently reside in? : 327.6604, 335.5211
+What did the speaker originally wish to major in? : 483.4587, 491.7322
+Why did the speaker decide to pursue a career in music : 651.3785, 659.8011
+What activity do the speaker’s twins love? : 871.1137, 885.4928
+Where did the speaker perform in 2015? : 1145.3184, 1150.5622
+Who did the speaker’s cousin open for? : 1360.9044, 1370.5406
+What new artists are the speaker’s biggest influences? : 1510.3413, 1516.5631
+What is the average person’s attention span? : 1860.8297, 1866.8203
+What does the speaker think is the deepest song in the world? : 1915.6280, 1919.8221
+What is the speaker’s favorite thing about Rochester? : 2181.7440, 2197.8738
+What does the speaker dislike about Rochester? : 2285.1679, 2294.1805
+Does the speaker think Rochester is a diverse city? : 2508.2329, 2515.2644
+Does the speaker think there is a distinct Rochester accent? : 2665.4563, 2673.5863
+What is a common word used to refer to southern sounding accents in Rochester? : 2720.2375, 2746.2941

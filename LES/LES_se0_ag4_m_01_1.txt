@@ -1,0 +1,20 @@
+When was the speaker born? : 7.6046, 10.2607
+How much did the speaker's mother pay for a Co-op in 1956? : 50.1982, 69.5372
+What was the speaker's major in college? : 103.4314, 115.2865
+What was the speaker the first to do at a major advertising agency in New York? : 188.5450, 199.2207
+When did the speaker's mother die? : 339.0677, 345.8927
+According to the speaker, what is the role of a deacon in a church? : 423.2091, 435.6096
+Who showed the speaker's church how to restore a historic site? : 540.1435, 555.9279
+According to the speaker, what was the ethnicity of the first non-indigenous person to live in their city? : 681.6289, 694.3626
+Who does the speaker say built the infrastructure of their city? : 819.2588, 841.0382
+How old is the speaker? : 974.3189, 981.3555
+What subway stop would the speaker get off at everyday on while commuting to high school? : 	1098.5482, 1115.4306
+According to the speaker, why was everyone poor in the 1930's? : 1177.9828, 1187.0411
+According to the speaker, who built the first tenement in Lower Manhattan? : 1345.3411, 1352.5415
+According to the speaker, what is the median income in Harlem? : 1459.8645, 1463.7903
+Who does the speaker say is taking over their community? : 1587.6938, 1597.8360
+What is the maximum height for which the speaker thinks that buildings in their area should be built? : 1691.6054, 1718.8837
+What kind of attitude does the speaker say doesn't exist much in America now? : 1859.4339, 1873.0519
+According to the speaker, what street divided the Chinese and Hispanic communities of the Lower East Side? : 2184.3447, 2197.8959
+Where did the speaker learn to swim? : 2328.6597, 2335.2272
+Does the speaker think that New York's future will be similar to its past? : 2540.8551, 2548.9861

@@ -1,0 +1,13 @@
+What is the name of the hospital that the speaker was born at? : 13.1225, 20.4887
+What was the speaker's favorite subject in school? : 156.4650, 158.5213
+Why didn't the speaker play sports in high school? : 170.6519, 182.3814
+On what days is the speaker off from work? : 470.8531, 475.8506
+How much does the speaker say that gas costs? : 755.3618, 757.4169
+Why did teachers think that there was something wrong with the speaker in school? : 1039.0439, 1044.7641
+Did the speaker consider going to college? : 1055.7441, 1065.0023
+When did the speaker get married? : 1142.1863, 1152.9460
+How old is the speaker's sister? : 1311.0130, 1318.5239
+How many children did the speaker's maternal grandmother have? : 1503.5353, 1514.6400
+Where did a lot of people from the speaker's area go when they left after the flood? : 2003.7237, 2007.7140
+How old was the speaker when they first learned that Princeville was the first Black town in America? : 2103.8772, 2121.2197
+How much money does the speaker say that people who sit behind a desk and do nothing make? : 2733.4170, 2743.5005

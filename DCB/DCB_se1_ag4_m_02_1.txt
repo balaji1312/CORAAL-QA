@@ -1,0 +1,11 @@
+How long has the speaker lived in their area? : 0.5467, 6.0087
+How did the speaker feel about Obama being elected as president? : 453.4745, 462.5043
+What does the speaker say that the team called the Wizards' previous name was: 851.0652, 879.9735
+Does the speaker have any siblings? : 1189.9171, 1202.1519
+Where was the speaker incarcerated? : 1211.8854, 1216.9796
+How old is the speaker's girlfriend? : 1352.0020, 1368.5155
+Where did the speaker go to elementary school? : 1532.0233, 1539.0202
+What was the speaker's nickname in elementary school? : 1546.0691, 1550.6816
+Why didn't the speaker attend college? : 1719.5170, 1727.9591
+Does the speaker have a spouse? : 1940.4955, 1955.6019
+What time does the speaker say that alcohol stores in Maryland open? : 2450.0093, 2465.4467

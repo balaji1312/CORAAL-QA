@@ -1,0 +1,10 @@
+Whom did the speaker live with?: 1.5018, 6.2667
+Did the speaker’s family own a house?: 9.5562, 12.6122
+Did the speaker ever visit the Genesee Country Museum?: 61.1022, 66.8390
+What did the speaker’s Grandmother prepare to feed him?: 76.3999, 83.8904
+When the speaker’s Grandmother was upset, where did she move with with her sister?: 896.9482, 902.4172
+Did the speaker enjoy eating chicken over time?: 916.2977, 924.9426
+Where did the speaker’s brother go to school?: 1469.5144, 1472.7987
+Did the speaker mention about the existence of school buses?: 1534.4347, 1536.0146
+Why did the speaker’s friend who had Alzheimer’s drop out of school?: 1574.7987, 1583.9991
+Which Bakery did the speaker visit to watch the cooking of Fry Cakes?: 1997.3459, 2016.2150

@@ -1,0 +1,5 @@
+When did the speaker move to Tarboro? : 0.4730, 19.9512
+Did the speaker lose anything in the flood in their area? : 34.6930, 44.6786
+When did the speaker's mother have a stroke? : 55.9185, 63.0936
+From where did the speaker buy pajamas for people who had been affected by the flood? : 146.4314, 166.6976
+How many twin mattresses did the speaker have at their house for people? : 301.2051, 308.0631

@@ -1,0 +1,15 @@
+How old was the speaker when they got married? : 145.2022, 146.8050
+On what day did the speaker get married? : 163.5798, 168.4887
+How many siblings did the speaker's husband have? : 514.2389, 519.8643
+On what street was the Hot Shoppe that the speaker went to? : 592.1992, 602.2362
+In what month does the speaker say the riots were? : 631.1462, 641.3836
+How old was the speaker during the March on Washington? : 777.0242, 787.5379
+Did the speaker enjoy living in Lincoln Park? : 948.2556, 955.6638
+At what store did the speaker's oldest sister work? : 975.2340, 978.8058
+What shape is the scar on the speaker's leg? : 1065.4765, 1067.8499
+Where would the speaker sneak out to go to in high school? : 1245.6956, 1256.1009
+What was the name of the speaker's stepfather's friend's photography place? : 1288.3951, 1296.9597
+Does the speaker think that there are Black people who have a lot of money? : 1513.9199, 1521.7842
+What kind of music does the speaker listen to? : 1884.8338, 1888.0221
+What was the speaker's favorite place to get mumbo sauce? : 1921.8491, 1943.8843
+What would the speaker get from the Eastern Market? : 2202.0988, 2225.6807

@@ -1,0 +1,13 @@
+When was the speaker born? : 7.5316, 14.2267
+Where is the speaker from? : 16.5097, 18.5961
+In what other places has the speaker lived? : 59.3949, 64.7714
+Where was the speaker's father born? : 98.3212, 102.2431
+What does the speaker's father do for work? : 113.5689, 122.1983
+Does the speaker have any siblings? : 338.2775, 343.0924
+What did the speaker do for fun as a child? : 374.4077, 387.7248
+Does the speaker think that their area is safe? : 649.3883, 654.8598
+Where did the speaker go to for college? : 1575.4993, 1583.4733
+What did the speaker study in college? : 1682.2425, 1685.8149
+What work does the speaker want to do in the future? : 1701.4746, 1704.5601
+How does the speaker describe the racial demographics of their area? : 1914.9762, 1940.8496
+What is distinct about the speaker's area? : 2416.9625, 2430.4640

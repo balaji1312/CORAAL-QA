@@ -1,0 +1,2 @@
+Did the speaker participate in religious activities as a child? : 77.7848, 86.6701
+What has the speaker learned about food? : 528.2211, 549.1371

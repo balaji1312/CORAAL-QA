@@ -1,0 +1,39 @@
+When is the speaker's birthday? : 0.4169, 4.8009
+Where was the speaker born? : 7.8624, 10.7149
+Where does the speaker currently live? : 27.2613, 29.5980
+What does the speaker do for work? : 61.9090, 66.5941
+Where was the speaker's mother born? : 75.1913, 79.8904
+Where was the speaker's father born? : 80.7017, 83.6055 
+What did the speaker's mother do for work? : 91.2329, 95.8853
+What did the speaker's father do for work? : 98.5898, 103.0231
+How many siblings does the speaker have? : 140.3473, 144.5521
+What were the racial demographics of the speaker's neighborhood while they were growing up? : 285.5131, 292.1938
+What food does the speaker say they can't stand to look at? : 434.7856, 448.7301
+What kind of dance did the speaker study? : 508.0726, 521.0646
+When did the speaker's parents get married? : 579.7275, 583.0930
+How often does the speaker's family get together? : 642.1884, 650.0909
+How old is the speaker's daughter? : 658.1659, 662.2261
+Which teacher made the most impact on the speaker's life? : 748.5657, 755.4480
+On what street was the speaker's junior high school? : 832.0073, 835.3821
+In what grade was the speaker when they went to Disney world? : 943.9556, 948.7074
+How long was the speaker married to their first husband? : 1197.4991, 1202.3986
+Why did the speaker only have one child? : 1330.0819, 1335.2846
+What was the speaker's job at the computer science corporation? : 1374.8599, 1385.2885
+Where did the speaker buy a house when they were twenty six? : 1418.6411, 1423.8531
+What was the speaker's daughter's rank in ROTC Air Force? : 1545.0468, 1555.9183
+How often does the speaker go into Washington DC city proper? : 1839.2752, 1866.4122
+What does the speaker's family call them to tease them? : 1968.4449, 1972.3524
+Did the speaker often go to parties when they were younger? : 2103.7462, 2109.2146
+Why did the speaker once cut third period in tenth grade? : 2357.7641, 2369.4983
+How old was the speaker when they went to their first house party? : 2455.2049, 2460.3516
+What was the first alcoholic drink that the speaker ever had? : 2696.8043, 2702.1561
+Has the speaker been in a fight before? : 2861.4377, 2868.9345
+What is the speaker's favorite book? : 3101.7641, 3115.5220
+What type of music did the speaker get into from ages fifteen to nineteen? : 3467.2034, 3478.5786
+Who taught the speaker how to hand dance? : 3497.8655, 3504.0007
+Does the speaker use much slang when they talk? : 3870.1873, 3871.8006
+Did people from Simple City often go to the speaker's neighborhood? : 4082.3555, 4087.7680
+At what age did the speaker get their own phone? : 4200.8383, 4206.3953
+What kind of restaurant does the speaker say Market Inn was? : 4436.0459, 4445.1596
+What was the name of the restaurant on Benning Road that the speaker says is known for their chicken wings and steak and cheese sandwiches? : 4545.4635, 4555.2206
+Why does the speaker think that respect is important? : 4755.3842, 4759.4351

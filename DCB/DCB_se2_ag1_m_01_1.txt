@@ -1,0 +1,21 @@
+Where was the speaker born? : 0.1346, 3.5205
+How old is the speaker? : 16.2128, 18.0446
+Where were the speaker's parents born? : 64.3095, 79.9445
+What games did the speaker play as a child? : 232.4764, 251.5174
+At what age did the speaker start to play sports? : 306.2548, 331.5227
+Why did the speaker decide to join cheerleading? : 366.5918, 379.9197
+Who was the speaker's favorite elementary school teacher? : 518.8239, 524.6206
+Why did the speaker's father move to Washington DC? : 572.9148, 576.6489
+What position did the speaker play in football? : 801.1451, 804.6318
+How many students are in the speaker's school? : 863.5508, 880.6299
+What does the speaker want to do after graduating high school? : 947.4182, 970.9911
+How much did the speaker's private school cost? : 1047.3120, 1058.2038
+When does the speaker say the Boys and Girls Club started the leadership program? : 1362.1824, 1374.1457
+Does the speaker believe that Washington DC is a good place for Black men? : 1629.4197, 1652.749
+What does the speaker think should change with police officers? : 1786.5474, 1795.9549
+Does the speaker think of themselves as a silly person? : 1909.5278, 1921.838
+Who usually makes the speaker laugh? : 2040.1757, 2044.0846
+Does the speaker watch TV everyday? : 2391.3999, 2402.7812
+Has the speaker been to museums in the area? : 2622.5725, 2645.6935
+Where is the speaker's favorite place to get mumbo sauce? : 2829.9914, 2840.0993
+What type of music does the speaker listen to? : 2925.0079, 2936.9656

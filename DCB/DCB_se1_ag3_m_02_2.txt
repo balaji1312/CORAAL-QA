@@ -1,0 +1,6 @@
+Where does the speaker live? : 0.4244, 5.9482
+What advice would the speaker give to children? : 148.0637, 174.0163
+Did the speaker go to college? : 176.8792, 193.7956
+What does the speaker say is the name of the local soccer team? : 363.7178, 377.6021
+When does the speaker say a local sports team most recently won a championship? : 377.5667, 404.3917
+What does the speaker say is wrong with the Washington Wizards? : 607.6238, 644.2881

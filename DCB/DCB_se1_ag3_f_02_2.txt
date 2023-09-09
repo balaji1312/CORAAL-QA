@@ -1,0 +1,10 @@
+What does the speaker think should change about their area? : 86.0369, 129.5632
+Which teacher had the biggest impact on the speaker in high school? : 162.7531, 189.9750
+What does the speaker do for work? : 197.8682, 204.9359
+What does the speaker study in school? : 205.5487, 220.5029
+What does the speaker dislike about the public schools in their area? : 245.1817, 277.3003
+What was the speaker's first job? : 333.8069, 360.1472
+What does the speaker want to do for work in the future? : 421.9861, 434.3837
+What did the speaker learn from growing up in their area? : 445.9512, 451.0752
+Does the speaker have any children? : 720.4347, 723.2258
+How long has the speaker lived in the area? : 729.3192, 746.0851

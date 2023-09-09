@@ -1,0 +1,16 @@
+﻿What sport did the speaker play growing up? : 77.5970, 81.7097
+What did the speaker’s mother work as? : 513.7057, 517.7753
+How much would college cost? : 607.6354, 613.9711
+What did the speaker major in? : 734.8517, 740.1254
+What other things was the speaker involved in during college? : 938.5120, 946.2420
+What nature is a graduate degree in political science? : 1616.2739, 1625.5193
+What does the speaker think is a way to become a better student? : 1705.4955, 1715.9474
+How did the speaker find the experience of writing her dissertation? : 1846.1114, 1878.9313
+When did the speaker start work everyday? : 1982.7778, 1990.9403
+Did the speaker wish to become a professor? : 2232.7215, 2235.8969
+Where does the speaker currently stay? : 2466.9648, 2472.4642
+When did the speaker finish her dissertation? : 2478.7317, 2484.6291
+What is the speaker’s current job title? : 2485.0721, 2490.6478
+What are some changes that have occurred in Rochester? : 2642.3160, 2655.1469
+What is the speaker’s favorite thing to do in Rochester? : 2787.8829, 2797.0303
+Does the speaker have any kids? : 3115.5300, 3122.8036

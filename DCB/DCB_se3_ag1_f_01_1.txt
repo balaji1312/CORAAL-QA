@@ -1,0 +1,21 @@
+When is the speaker's birthday? : 2.1134, 3.8054
+Where was the speaker born? : 6.5052, 8.6564
+Where were the speaker's parents born? : 77.2765, 83.4001
+What do the speaker's parents do for work? : 85.5829, 93.0043
+When did the speaker move to East Capitol? : 123.2946, 127.3927
+Was the neighborhood that the speaker grew up in safe? : 280.9161, 292.4993
+What would the speaker do when it snowed? : 328.6597, 350.6996
+How many bedrooms does the speaker's new house have? : 492.9619, 497.6288
+What don't the teachers at the speaker's school don't understand? : 621.9123, 636.6563
+Why did the speaker like pre-K? : 823.7150, 830.6457
+What was the purpose of the game that the speaker played in social studies class today? : 865.8401, 872.0340
+In how many years will the speaker's father graduate the school he is in? : 940.4699, 952.7756
+What does the speaker want to be when they grow up? : 1188.5117, 1207.0477
+Why did a girl in the speaker's class dislike them? : 1338.9483, 1351.1900
+Why does the speaker value friendship? : 1471.6864, 1479.5599
+When did the speaker's best memory with their friends take place? : 1577.6261, 1590.6528
+Does the speaker have a boyfriend? : 1758.2674, 1759.5240
+Where does the speaker sit most of the time at congregation? : 2003.4649, 2014.9740
+What is the speaker's favorite type of music? : 2187.8414, 2193.8434
+What kind of music did the speaker's father's band used to play? : 2244.6222, 2249.3913
+What does the speaker eat with mumbo sauce? : 2270.7793, 2282.8552

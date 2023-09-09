@@ -1,0 +1,6 @@
+How old was the speaker when their family moved to Second and T Street? : 20.5001, 30.7475
+In what year did the speaker's family move to Tacoma Park? : 86.0541, 110.5780
+What high school did the speaker's sister attend? : 343.5374, 349.8205
+Who is the person named Larry that the speaker mentions? : 555.6681, 560.7337
+According to the speaker, did many people of color live west of Rock Creek park when they were growing up? : 713.1093, 717.5053
+According to the speaker, what is Western High School now called? : 832.9252, 842.4930

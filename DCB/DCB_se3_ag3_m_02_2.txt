@@ -1,0 +1,3 @@
+According to the speaker, what does the word bama mean? : 145.1077, 164.5106
+According to the speaker, what does the word lunching mean? : 218.9377, 222.6722
+What did the speaker used to say all the time? : 306.5987, 311.3440

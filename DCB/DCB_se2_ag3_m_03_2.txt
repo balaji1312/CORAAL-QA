@@ -1,0 +1,2 @@
+How long has the speaker been at their current job? : 174.0981, 186.7673
+Does the speaker enjoy their job? : 235.2055, 240.6158

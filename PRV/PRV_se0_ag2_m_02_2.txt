@@ -1,0 +1,5 @@
+According to the speaker, how many old residents came back when their apartment when it was rebuilt? : 146.2479, 154.0265
+According to the speaker, what is the largest employer in Princeville? : 462.4534, 467.8326
+What was the speaker's job at the county jail? : 599.2866, 609.4168
+What are the high school's in the speaker's city? : 645.6183, 650.6190
+What percent of the speaker's band is made up of people from Princeville? : 877.6109, 889.0475

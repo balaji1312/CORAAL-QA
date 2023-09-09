@@ -1,0 +1,10 @@
+How long did the speaker live in Virginia Beach? : 8.3806, 23.3627
+How did the magnitude of first flood in the speaker's area compare to the one in 1999? : 140.4185, 150.7259
+According to the speaker, how many people in Pine Top died in the flood? : 736.4116, 749.4026
+Who inspected the speaker's house after their town was destroyed? : 837.7693, 847.0510
+What makes the speaker feel at home in Princeville? : 1322.1888, 1337.7578
+How many children did the speaker's sisters have? : 1525.3936, 1535.9925
+When did the speaker's sister pass away? : 1667.6044, 1674.5501
+How many bedrooms did the speaker's house have as a child? : 1928.1699, 1942.2905
+What kinds of animals did the speaker's father raise? : 1967.2115, 1974.5511
+How long did the speaker stay at Tarboro High School after the flood? : 2653.7302, 2676.9587

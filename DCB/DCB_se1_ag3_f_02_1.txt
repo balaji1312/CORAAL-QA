@@ -1,0 +1,13 @@
+How old is the speaker? : 0.5839, 5.6555
+Where did the speaker grow up? : 8.5884, 12.7860
+Did the speaker have a favorite teacher? : 60.3070, 67.3542
+How does the speaker describe their neighborhood? : 79.6768, 101.2873
+Where is the speaker's father from? : 117.2168, 122.4416
+Where is the speaker's mother from? : 118.9556, 122.4416
+Does the speaker have any siblings? : 123.1414, 133.7584
+Where are the speaker's grandparents from? : 144.7820, 153.0784
+How did the speaker's family celebrate holidays? : 156.8340, 171.0867
+How long has the speaker been married? : 201.4191, 213.1549
+What are the speaker's favorite bands? : 324.7885, 348.7684
+What advice would the speaker give to young people? : 477.7795, 492.1902
+Did the speaker play any sports? : 527.3962, 538.0331

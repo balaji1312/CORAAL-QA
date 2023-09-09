@@ -1,0 +1,15 @@
+How old is the speaker? : 0.1436, 2.6450
+When is the speaker's birthday? : 3.7173, 6.6169
+At what age did the speaker start singing in church? : 201.6274, 214.2522
+At what event in Detroit, Michigan did the speaker's group sing? : 312.7779, 324.7968
+What is the speaker's favorite song that they wrote? : 489.9729, 501.7315
+How many people lived with the speaker after the flood in their area? : 625.1045, 637.5274
+How long were the water and lights off for at the speaker's house after the flood in their area? : 830.4630, 836.3003
+Where would the speaker go on vacation every year as a child? : 1197.4421, 1220.9451
+Who was the speaker's second grade teacher? : 1350.0861, 1353.8302
+How long was the speaker suspended for when they got in trouble at school? : 1484.4646, 1494.6185
+Does the speaker think that it's still fun to be a kid in Princeville? : 1709.6678, 1716.3596
+What does the speaker say are the names of the two side by side trailer parks in the area? : 1816.8124, 1820.6797
+According to the speaker, how many miles apart are Tarboro and Princeville? : 2005.5150, 2010.0098
+When did the speaker's grandmother die? : 2234.7911, 2240.2771
+What does the speaker want to do after they graduate? : 2424.8130, 2430.2829

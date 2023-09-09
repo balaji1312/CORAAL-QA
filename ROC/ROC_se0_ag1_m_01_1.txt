@@ -1,0 +1,16 @@
+﻿Where in Rochester did the speaker grow up? : 45.3140, 57.5518
+How old was the speaker’s mom when she had him? : 162.0266, 168.6328
+Where was the speaker’s grandmother’s house? : 475.8556, 488.6576
+What did the speaker write a poem on? : 736.3841, 743.0662
+What is the difference between the west side and east side? : 817.7904, 832.7500
+Does the speaker need a community? : 1073.8376, 1080.4820
+What did the speaker do in fifth grade? : 1200.5382, 1212.8879
+Where did the art teacher learn his skills? : 1328.8871, 1338.0142
+What math problem was the speaker tasked with in high school? : 1568.3067, 1578.0499
+What hobby did the speaker pick up at age seventeen? : 2067.6994, 2072.4357
+What store did the speaker help open up? : 2775.4415, 2778.6030
+What job did the speaker start at eighteen? : 2980.4590, 2986.4963
+What cities does the speaker want to expand the music festivals to ? : 3186.4314, 3192.6646
+What other place does the speaker compare Rochester to? : 3483.6685, 3498.1165
+Why was the speaker arrested? : 3644.8631, 3664.4951
+What was the purpose of the protest? : 3934.7183, 3961.1079

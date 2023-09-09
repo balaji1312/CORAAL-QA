@@ -1,0 +1,5 @@
+What is the most inspirational movie that the speaker has seen? : 67.5868, 100.4704
+What was the speaker's favorite TV show? : 188.7546, 202.1334
+Did the speaker play any sports? : 872.8584, 890.7817
+What advice would the speaker give to kids? : 942.4306, 998.5009
+Does the speaker play any musical instruments? : 1070.7361, 1082.6847

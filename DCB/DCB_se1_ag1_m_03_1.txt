@@ -1,0 +1,11 @@
+When was the speaker born? : 0.5131, 7.5343
+Where was the speaker born? : 14.0973, 16.3728
+What places has the speaker visited? : 117.8366, 126.9561
+Where was the speaker's mother born? : 231.0672, 238.8251
+How many bedrooms did the speaker's childhood home have? : 355.3151, 383.8137
+How was the speaker's relationship with their grandfather? : 552.9841, 562.6115
+How old is the speaker's sister? : 678.7165, 705.2398
+What was the speaker's favorite trip with their sister? : 1185.3554, 1199.5577
+What is the speaker's favorite basketball team? : 1551.1765, 1557.7013
+What type of music does the speaker like? : 2249.6720, 2262.9023
+Who is the speaker's favorite musician? : 2264.7286, 2270.4633

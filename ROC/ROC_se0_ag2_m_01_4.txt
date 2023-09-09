@@ -1,0 +1,9 @@
+Did the speaker sign up for a gym once he got to Baltimore?: 3.2001, 5.8708
+Where was the speaker coming from?: 8.6441, 17.6494
+What was the speaker’s great aunt’s doing?: 66.1012, 69.6982
+How many book reports did the speaker go through during the christmas of his Fourth Grade?: 210.8549, 214.8184
+Was the speaker an Oral Learner?: 352.3263, 355.0455
+What did the speaker mention as difference in terms of learning from reading vs learning from storytelling in urban vs rural districts?: 375.6686, 392.0190 
+Did the speaker talk about the existence of PhD Triangle in a specific place?: 439.3437, 442.3792
+Did the speaker mention that the Southern accent is viewed negatively?: 453.7048, 457.9962
+What alternative did the speaker share to master English instead of making the secondary learners fall behind by one grade?: 480.2848, 482.5970

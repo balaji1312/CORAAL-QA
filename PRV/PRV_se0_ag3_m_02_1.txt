@@ -1,0 +1,10 @@
+Why did the doctor tell the speaker to start taking pills? : 162.5136, 184.6391
+How old is the speaker? : 200.5016, 204.4994
+How long has the speaker lived in Princeville? : 316.4751, 323.6821
+What did the speakers parents do for work? : 496.1201, 506.7954
+At what age did the speaker start doing farm work? : 554.6196, 567.5615
+How much does the speaker say that soda used to cost? : 673.9636, 677.8998
+What church is the speaker a member of? : 803.9519, 809.2229
+How many hogs does the speaker currently have? : 852.8986, 859.3956
+How did the speaker heat their house before they got central heat? : 1006.5271, 1018.3899
+Where were the women who painted the speaker's house from? : 1119.0128, 1134.5183

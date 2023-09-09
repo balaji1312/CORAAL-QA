@@ -1,0 +1,22 @@
+Where was the speaker born? : 23.1554, 24.9867
+When did the speaker's parents separate? : 159.6391, 170.2727
+According to the speaker, what was President Carter's program to help low income families? : 243.1714, 254.0768
+How old are the speaker's children? : 346.1858, 355.0189
+While the speaker was growing up, how many children did the largest family their neighborhood have? : 517.2539, 526.8554
+Where was the boy's club that the speaker's brothers would go to? : 631.7897, 634.9751
+How many Black children went to the speaker's elementary school with them? : 768.9821, 779.7028
+On what street was the speaker's high school? : 878.9222, 886.2460
+At what age did the speaker get their first full time job? : 1088.1757, 1091.7280
+Where was the speaker's first apartment? : 1119.5800, 1139.8516
+Why did the speaker's landlord take them to court? : 1384.6673, 1402.1484
+What is the speaker's current job? : 1494.4729, 1507.0121
+Why has the speaker kept gravitating back to the Lower East Side? : 1556.4508, 1566.0035
+What area does the speaker say had a lot of prostitution? : 1805.3643, 1817.0276
+At what age did the speaker's brother start smoking marijuana? : 1952.2987, 1960.4649
+What does the speaker think their community has too many of? : 2047.8157, 2053.7580
+Why did the speaker's mother feel comfortable living on the Lower East Side? : 2200.2088, 2212.0365
+What did the principal at the speaker's youngest son's school tell the kids not to do? : 2299.8012, 2317.3896
+According to the speaker, Who does the Hospice on Rivington street provide care for? : 2419.5069, 2431.2410
+What does the speaker think makes up a community? : 2609.0913, 2626.5649
+Where does the speaker still see their mother's friends? : 2756.5732, 2771.4054
+What would the speaker listen to in FDR Park as a kid? : 2972.7661, 2985.9164

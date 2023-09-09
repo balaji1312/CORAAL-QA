@@ -1,0 +1,19 @@
+What type of school did the speaker attend? : 94.9088, 96.9558
+Where did the speaker’s mother live previously? : 168.4624, 176.6068
+Who lives in the speaker’s house currently? : 298.5328, 308.2566
+What caused all the buildings to become empty? : 250.7717, 257.1782
+What sport did the speaker participate in?  : 411.7614, 420.8721
+What was the speaker’s uncle’s passion? : 569.1482, 576.3896
+What was the speaker’s mothers’ profession? : 740.1827, 750.5470
+What is the speaker’s roommate currently doing? : 864.9865, 870.5292
+What did the speaker major in? : 941.3309, 946.0529
+Did the speaker stay in a large home growing up? : 1175.9432, 1180.8362
+What was the speaker’s first job? : 1324.9897, 1329.4911
+What qualification is the speaker aiming to complete? : 1436.5046, 1447.7041
+Why did the teacher return the same homework multiple times? : 1889.1125, 1896.0135
+Which school did the speaker’s friend’s child attend? : 2093.6136, 2107.7296
+What is the biggest mistake the school district made? : 2227.8807, 2241.9039
+What is the speaker’s favorite thing about Rochester? : 2363.3452, 2371.8839
+What does the speaker dislike about Rochester? : 2499.2563, 2509.4429
+Does the speaker think Rochester is diverse? : 2623.8557, 2627.4833
+What do other people think about the speaker’s accent? : 2831.5109, 2845.3207

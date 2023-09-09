@@ -1,0 +1,10 @@
+How long has the speaker been living in their area? : 7.0138, 9.4818
+Where was the speaker born? : 20.1583, 22.4554
+How many aunts and uncles does the speaker have? : 62.0543, 76.3673
+How old is the speaker? : 474.7912, 478.8513
+How long ago was marijuana legalized in the speaker's area? : 558.0669, 582.3332
+Does the speaker have any children? : 735.3644, 737.1223
+Who was the speaker raised by? : 749.3306, 754.7943
+What did the speaker's grandmother do for work? : 757.3355, 767.7994
+Did the speaker's family have any family traditions? : 1018.0496, 1052.7330
+How did the speaker say the band called Junk Yard got its name? : 1260.9311, 1279.6218

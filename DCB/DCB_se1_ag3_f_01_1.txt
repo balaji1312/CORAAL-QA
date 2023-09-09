@@ -1,0 +1,18 @@
+Where was the speaker born? : 0.4254, 3.9786
+What does the speaker do for work? : 105.7361, 112.6292
+Where was the speaker's father from? : 118.3572, 122.5551
+Where was the speaker's mother from? : 123.9582, 127.4263
+What did the speaker's mother do for work? : 131.4905, 140.2290
+What did the speaker's mother do for work? : 141.7180, 145.4354
+How did the speaker's parent's meet? : 162.7009, 175.5940
+How is gentrification affecting the speaker's area? : 344.9405, 368.5732
+Where did the speaker go to college? : 414.2884, 420.4017
+Where does the speaker go grocery shopping? : 903.8099, 919.1408
+Does the speaker have any siblings? : 1176.9722, 1179.3586
+What church does the speaker go to? : 1483.9073, 1487.0950
+Did the speaker do any extracurricular activities in school? : 1742.3404, 1749.5592
+What was the speaker's favorite subject in high school? : 1882.2952, 1904.4778
+What advice would the speaker give to kids? : 2113.6945, 2130.6360
+How did the speaker find out that she could pay for college? : 2580.7023, 2620.3320
+What was the first band that the speaker went to see? : 3126.6903, 3142.9242
+Are there any foods that the speaker says are specific to their area? : 3365.6831, 3390.2146

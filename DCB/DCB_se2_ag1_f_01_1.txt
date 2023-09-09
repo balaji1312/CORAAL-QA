@@ -1,0 +1,18 @@
+Where does the speaker currently live? : 27.9742, 35.4109
+What type of job does the speaker want in the future? : 51.7078, 54.0754
+Where were the speaker's parents born? : 60.4385, 65.4911
+Has the speaker considered changing their name? : 290.2361, 298.3213
+Does the speaker go to sleep overs often? : 507.2902, 521.6856
+What is the age difference between the speaker and their younger sister? : 567.7562, 575.9698
+When did the speaker first do public speaking? : 775.0735, 809.5634
+How long was the speaker suspended from school for fighting a girl? : 966.8103, 992.1260
+Why did the speaker first go to the Boys and Girls Club? : 1221.7886, 1255.8985
+Where did the speaker go for a community service trip? : 1396.6873, 1402.4538
+What kind of person does the speaker say people need in their lives? : 1693.8280, 1706.9557
+What was the speaker's favorite experience at school? : 1936.2751, 1961.4630
+Why didn't the speaker get a Maryland driver's license? : 2198.0136, 2202.7696
+What brand of car does the speaker want? : 2305.7338, 2312.6617
+What college does the speaker most want to go to? : 2718.5415, 2726.5801
+At what age did the speaker's mother have her first child? : 2834.8698, 2843.6431
+Why did the speaker join a poetry club? : 3177.1123, 3186.0907
+How old is the speaker's brother? : 3491.7394, 3493.4927

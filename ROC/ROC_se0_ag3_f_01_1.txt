@@ -1,0 +1,7 @@
+Where was the speaker born and Raised?: 7.9854, 9.7145
+Which part of the Rochester did the speaker grow up?: 13.5619, 15.2210
+When did the Speaker describe that he bought a house?: 45.9270, 48.7218
+Did the speaker think that his residential community as diverse?: 208.3019, 211.8436
+What were two of the employers at Rochester that the speaker mentioned?: 318.9000, 331.2499
+Why did the Employer General Motors take a dive and laid off people when economy went down?: 335.63331, 350.6502
+What did the speaker describe as the qualification to go to a call centre?: 391.0908, 400.4765

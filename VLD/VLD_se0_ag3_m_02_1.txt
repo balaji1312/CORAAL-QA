@@ -1,0 +1,11 @@
+What hospital was the speaker born in? : 17.3626, 18.6671
+Why did the bowling alley in the speaker's childhood neighborhood go out of business? : 256.7331, 273.5674
+Why did the speaker call the change in the schooling system legal segregation? : 415.5452, 460.4455
+What field trip did the speaker go on in sixth grade? : 771.6032, 794.9751
+Why did the speaker look forward to PE? : 1047.6809, 1061.4539
+What was the topic of disagreement between the superintendent and principal? : 1308.5781, 1329.9533
+Why was the speaker scolded by their favorite teacher? : 1493.2226, 1524.9715
+Why did the speaker choose to go to a college in the state of Georgia? : 1877.4741, 1891.4848
+During college, what did the speaker major in? : 1977.2296, 1980.0912
+How much money does the speaker spend on the WWE network subscription? : 2386.9461, 2404.2944
+On what date did the speaker have a near death experience? : 2674.7875, 2677.6226

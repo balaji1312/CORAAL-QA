@@ -1,0 +1,14 @@
+Where was the speaker born? : 22.2032, 25.6619
+Until what age did the speaker live on a farm? : 44.7624, 49.2842
+How long did the speaker live in Panama? : 72.9065, 80.8836
+Where was the speaker's baby brother born? : 327.4618, 331.6386
+What does the speaker's mother do for work? : 644.2168, 649.6526
+When did the speaker begin to take school seriously? : 992.7012, 1018.2027
+Did the speaker go to college? : 1060.0720, 1063.2557
+According to the speaker, how much does Superior Cable pay its starting employees? : 1525.4991, 1533.7653
+How long did the speaker work at Carolina Express? : 1738.6602, 1744.4224
+What is the speaker's position at the fire department? : 1830.5095, 1835.4755
+How long has the speaker worked at the fire department? : 1975.0550, 1998.1009
+What school did the speaker say they brought the fire truck to? : 2457.4199, 2472.7527
+How many children does the speaker have? : 2571.3732, 2575.8531
+How old is the speaker's mother? : 2712.9065, 2717.4927

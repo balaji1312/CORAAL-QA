@@ -1,0 +1,10 @@
+Where did the speaker's family build a house? : 51.0637, 61.4685
+What does the speaker major in? : 240.1080, 252.8686
+What tv shows did the speaker watch as a kid? : 561.0190, 568.0014
+Why were there mice in the speaker's house in Lake Park? : 835.3892, 883.2437
+Why did people think the speaker was mean in middle school? : 1120.2168, 1137.6550
+Under what condition was the speaker able to take off the hat given to the speaker by a senior band memeber? : 1471.7932, 1477.5795
+How did the speaker keep track of the speakers position on the field during band camp? : 1650.7462, 1657.1737
+How long has the speaker been out of school? : 	2281.2460, 2284.8466
+As a child, where did the speaker;s family go out to each after church? : 2639.7463, 2646.0951
+What schools is the ighschool rivalry between? : 3236.1548, 3239.4934 

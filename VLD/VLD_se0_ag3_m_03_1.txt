@@ -1,0 +1,13 @@
+What sports did the speaker play in Atlanta? : 30.8645, 58.6858
+What subject was the speaker's weakest in school? : 172.3853, 174.7824
+How did the speaker end up in Valdosta? : 418.4033, 427.2844
+Why did the speaker call the first house they lived in a shotgun house? : 546.3544, 554.7935
+How many siblings does the speaker have? : 968.2329, 978.0786 
+Why can't the speaker be in the military? : 1016.9644, 1036.0034
+What store location did the speaker dislike their manager? : 1208.5570, 1213.6887 
+What is the role of field coach? : 1577.8462, 1589.5696 
+When does the store the speaker works at decide when they take cash? : 	1806.7289, 1837.1566
+Why didn't the speaker approach the interviewer the first time the speaker saw the interviewer? : 2108.0970, 2129.8536
+What was the race and gender of the manager that stole 1500 from the store? : 2478.0523, 2478.7284
+How many minutes away was the speaker from home before getting into a car accident? : 2797.0426, 2805.8584 
+What did the company do to the customer that called the speaker a slur? : 3059.0009, 3071.7126

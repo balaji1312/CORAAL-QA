@@ -1,0 +1,19 @@
+When was the speaker born? : 45.3668, 48.4118
+What amount of people in the speaker's neighborhood were Black before they moved to the Lower East Side? : 114.3191, 135.8986
+What did the speaker's mother do for work? : 239.4476, 247.5796
+What did the speaker's father do for work? : 252.1062, 262.8402
+How many bedrooms did the speaker's apartment in Manhattan have when they were growing up? : 355.2089, 368.1333
+According to the speaker, why is Wood Park called Wood Park? : 604.7347, 615.8036
+What did the speaker's fourth grade teacher bring every Friday? : 715.7897, 729.5550
+How long did the speaker hang out in Hell's Kitchen for? : 957.7555, 967.0309
+According to the speaker, what do you need to be a middle man? :  997.9460, 1012.3081
+What magazine was the speaker on the cover of? : 1128.2047, 1141.0776
+Why did the speaker always fight the leader or biggest person in a group when they got into fights? : 1236.0367, 1256.1798
+What charge did the speaker spend time in jail for? : 1340.7644, 1353.3527
+What is the speaker's stepson's name? : 1462.4927, 1466.5136
+How old was the speaker's older brother when he was incarcerated? : 1627.1246, 1639.8079
+What does the speaker want in life? : 1816.3955, 1832.7308
+When did the speaker release their first record? : 1940.9640, 1944.7133
+What was the speaker's biggest fear? : 1959.6006, 1961.8001
+Who does the speaker's mother live with? : 2128.7559, 2136.0195
+Does the speaker believe that North of Houston Street and South of Houston Street are two different neighborhoods? : 2382.6007, 2411.4532

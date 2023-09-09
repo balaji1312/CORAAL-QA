@@ -1,0 +1,14 @@
+How many children does the speaker have? : 35.4507, 37.8692
+How long did the speaker's grandmother live? : 74.7883, 81.2621
+Why does the speaker not want to live in Virginia? : 559.6364, 570.7216
+When did the speaker move to Maryland? : 582.1872, 606.9978
+How long does it take the speaker to walk to work? : 773.1325, 788.8880
+How much did the speaker's mother get paid to clean houses? : 810.6745, 814.4776
+What church does the speaker go to? : 1019.2710, 1022.9901
+What advice would the speaker give to young people? : 1117.5650, 1131.2302
+What difference does the speaker see in their area now as compared to when they were younger? : 1270.6506, 1310.7022
+What percentage of children does the speaker think are respectful? : 1648.9474, 1655.1965
+Did the speaker expect to have a Black President? : 1790.1540, 1799.3838
+What happened to the speaker's teeth? : 2089.1513, 2098.5438
+What was the speaker's first job? : 2100.7356, 2109.7698
+Why doesn't the speaker go to clubs today? : 2306.9415, 2310.1242

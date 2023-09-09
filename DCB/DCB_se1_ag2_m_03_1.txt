@@ -1,0 +1,8 @@
+What is distinct about the speaker's neighborhood? : 19.3529, 34.9683
+How old is the speaker? : 45.1306, 48.1302
+Has the speaker lived in other areas besides their current area? : 72.3437, 79.4079
+What does the speaker do for work? : 192.3370, 199.8452
+Does the speaker have any siblings? : 291.1873, 296.1830
+What does the speaker's brother do for work? : 375.9681, 381.7712
+What did the speaker's mother do for work? : 428.2097, 436.2083
+What family members does the speaker have in the area? : 612.6417, 628.2227

@@ -1,0 +1,17 @@
+When was the speaker born? : 0.2090, 6.3276
+Where is the speaker's neighbor's shop? : 309.0975, 321.8969
+Where was the speaker's grandmother from? : 343.8240, 352.8777
+Where was the speaker's grandfather from? : 360.5424, 362.7349
+In what building did the speaker attend first through fourth grade? : 525.7992, 533.8483
+Why did the speaker's father tell them not to get on the Tom walkers? : 650.5114, 673.0549
+What does the speaker say was at the fire station's location before it became a fire station? : 815.6091, 825.3325
+How many stories does the speaker say Davis' building is? : 1061.5105, 1066.2410
+According to the speaker, what did people use to call the corner on Main Street? : 1419.2079, 1426.7508
+At what age did the speaker learn to drive? : 1442.6329, 1446.3171
+How long did the speaker attend Fayetteville State University: 1468.9828, 1479.3901
+What did the speaker do for work in Washington DC? : 1537.4757, 1546.3865
+From where did the speaker earn a degree in social work? : 1637.1221, 1645.8959
+When did the speaker retire? : 1873.3864, 1877.0759
+When was the speaker voted in as commissioner: 	2235.5552, 2245.1414
+What did the speaker's committee receive a grant from the state for? : 2427.7514, 2450.8195
+Why was a house in the speaker's community nailed up? : 2607.8338, 2621.5836

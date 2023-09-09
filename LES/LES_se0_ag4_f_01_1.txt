@@ -1,0 +1,6 @@
+Where was the speaker born? : 35.2063, 36.7546
+Why did the speaker drop out of school? : 159.2368, 176.4554
+How long was the speaker homeless for? : 262.6208, 277.6271
+According to the speaker, why would people sometimes jump out of the window of their apartment building? : 508.9787, 511.6744
+What agency sponsored the speaker's building? : 666.1264, 673.1933
+How many people were in the committee that the speaker formed? : 743.7695, 745.0603

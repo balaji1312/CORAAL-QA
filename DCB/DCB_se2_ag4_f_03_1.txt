@@ -1,0 +1,13 @@
+When is the speaker's birthday? : 0.3518, 4.0914
+Where was the speaker born? : 13.4336, 17.5086
+What did the speaker major in during college? : 100.9960, 110.5900
+What did the speaker do for work? : 127.1678, 134.9073
+Where was the speaker's father from? : 141.5459, 146.9537
+Where was the speaker's mother from? : 151.0792, 153.7137
+What was the name of the preacher that the speaker describes as old and creepy? : 411.0190, 420.3891
+At what age did the speaker's younger brother pass away? : 430.3899, 434.9071
+In what year did the speaker's father pass away? : 651.5039, 654.9311
+Where did the speaker used to get potato chips? : 1031.6488, 1039.8952
+What was the name of the singing group that the speaker formed? : 1076.3848, 1085.3131
+What was the speaker's favorite subject in school? : 1555.4243, 1557.7231
+In what year did the speaker get married? : 1793.1732, 1797.1355

@@ -1,0 +1,14 @@
+How old is the speaker? : 3.4442, 9.5166
+Where did the speaker grow up? : 20.4602, 22.7668
+What is distinctive about the speaker's area? : 32.1189, 40.0143 
+What grade in school is the speaker in? : 283.2038, 286.6374
+What does the speaker like about the area? : 292.0102, 299.4725
+How does the speaker describe their friends? : 315.6025, 329.2049
+What does the speaker want to do for work in the future? : 575.4430, 617.9045
+What does the speaker dislike about their school? : 673.3049, 689.3001
+How does the speaker describe their favorite teacher? : 825.6410, 857.3698
+Does the speaker have pets? : 1008.5610, 1025.7450
+What does the speaker do for fun? : 1412.0232, 1442.7147
+Does the speaker feel safe in their area? : 1785.4987, 1803.6134
+How does the speaker define racism? : 1850.9032, 1878.8856
+Where has the speaker traveled to? : 2030.9521, 2036.7935

@@ -1,0 +1,28 @@
+When is the speaker's birthday? : 7.6053, 14.6731
+In what hospital was the speaker born? : 19.6286, 27.1254
+What is the speaker's job? : 108.1796, 112.4683
+Where were the speaker's parents born? : 160.8320, 168.7205
+What does the speaker's mother do for work? : 223.9177, 227.5734
+What are the speaker's favorite football and basketball teams? : 323.2097, 353.7273
+How many siblings does the speaker have? : 368.0250, 373.0376
+Where is the speaker's grandmother's house? : 499.2136, 502.1233
+What store does the speaker say was torn down and replaced by a Giant? : 741.5591, 756.4547
+Does the speaker have any family traditions? : 908.5985, 935.2610
+Did the speaker study seriously in eight grade? : 1069.2136, 1079.8019
+Did the speaker enjoy high school? : 1179.2280, 1183.2987
+How old was the speaker when they first met a white person? : 1216.8490, 1220.7098
+What was next to the speaker's grandmother's house? : 1361.7769, 1367.8422
+How does the speaker feel about gentrification in their neighborhood? : 1425.0502, 1443.5911
+Why wasn't the speaker accepted to some of the colleges that they applied to? : 1499.7116, 1507.7539
+Did the speaker drink a lot in college? : 1728.0054, 1733.5904
+How many times has the speaker gone to Baltimore? : 1976.0570, 1978.2568
+What is the speaker's favorite monument in Washington DC? : 2070.7374, 2090.3741
+What is the speaker's dream job? : 2230.3007, 2235.0143
+Why does the speaker live in Alexandria, Virginia? : 2348.3886, 2368.0849
+What advice would the speaker give to young Black men? : 2532.1197, 2570.7191
+How old are the speaker's daughters? : 2660.4900, 2674.0496
+What is the speaker's favorite book? : 2853.0620, 2856.4846
+What is the speaker's favorite TV show? : 2929.5337, 2942.8802
+What does the speaker refer to as carry out food? : 3017.0111, 3025.6223
+What is the speaker's favorite carry out restaurant? : 3100.5308, 3107.3702
+How does the speaker describe go go music? : 3216.5825, 3236.8429

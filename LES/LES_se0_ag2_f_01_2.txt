@@ -1,0 +1,10 @@
+Why did the speaker resent the bike lanes in their neighborhood? : 105.4047, 118.3420
+How old is the speaker? : 167.7691, 172.2882
+What phone number did the speaker call to make a complaint about a business? : 298.9133, 304.1723
+Why does the speaker call their friend a ketchup sister? : 530.1566, 537.0135
+Why does the speaker say that the person they bumped into was ballsy? : 793.5092, 812.7658
+According to the speaker, how long did it used to take an ambulance to arrive in their neighborhood? : 1052.7030, 1070.3575
+What does the speaker say was a Mecca of violence for the Lower East Side? : 1170.5220, 1181.1917
+According to the speaker, what happens to under-employed or unemployed people in public housing who do not do community service? : 1245.8743, 1257.2804
+Did the speaker find a job immediately after college? : 1307.4061, 1314.2382
+What organization is the speaker a member of? : 1569.2322, 1571.6558

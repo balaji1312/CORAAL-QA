@@ -1,0 +1,9 @@
+What part of the Rochester City did the speaker grow up?: 5.3972, 7.9711
+Did the speaker graduate from the Public School system?: 166.4019, 171.7124
+Did the speaker get into narcotics and drugs?: 212.0779, 220.0932
+What did the speaker describe as his responsibilities and duties related to Mosque? : 301.8486, 311.7782
+What did the speaker describe as the goal of Rochester City’s Council?: 432.0626, 444.1615
+Did the speaker and City council meet their goal of drug reduction?: 462.7334, 473.3618
+What was the Speaker’s wife passionate about?: 2433.7718, 2443.1519
+When and with whom did the speaker describe as the Inerational Movement started with?: 2478.9399, 2488.2020
+Whom did the speaker mention as the people behind making the place an industrial giant?: 2488.6322, 2501.5021

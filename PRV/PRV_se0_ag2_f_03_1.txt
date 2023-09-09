@@ -1,0 +1,6 @@
+How long did the speaker stay in FEMA park? : 0.5988, 20.7600
+What did the speaker's son say when he saw people from the Army? : 184.8474, 191.5054
+How would the speaker describe Princeville? : 264.3568, 287.8409
+What groups are the speaker's kids involved in? : 333.6824, 347.7841
+What is the speaker's hobby? : 448.4919, 456.7118
+Where did the speaker live before they moved to Pine Top? : 538.3146, 540.7618

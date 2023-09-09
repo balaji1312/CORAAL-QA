@@ -1,0 +1,20 @@
+﻿Where in Rochester does the speaker live? : 87.1555, 90.1537
+When did the speaker's parents buy their house? : 178.2902, 185.2373
+Who lives in the speaker’s house currently? : 298.5328, 308.2566
+What does the speaker think led to the isolation of communities? : 617.2038, 642.3497
+What is the slogan of the nineteenth ward?  : 946.0561, 970.8032
+What type of neighborhood is Plymouth? : 1322.5220, 1328.1405
+Who does the speaker blame for taking over neighborhoods? : 1419.0945, 1429.1563
+Which chain moved into the restaurant in the hood? : 1820.9717, 1824.3483
+Where did the speaker visit for open mic nights? : 1933.1518, 1938.6341
+What is the speaker's new favorite radio station? : 2050.5519, 2082.5691
+Are there any black owned open mic nights? : 2272.6370, 2281.8474
+Why is Rhino stadium unpopular in the hood? : 2391.0866, 2404.7802
+What nickname did the speaker’s sisters give him? : 2793.0718, 2805.8655
+What is the farthest the speaker traveled as a child? : 2830.8299, 2835.3596
+What rules did New York change in 1976? : 3172.3954, 3176.7068
+How long has the speaker been in their current job? : 3358.9265, 3361.8056
+What was the speaker’s major in school? : 3896.0816,3903.2933
+What ages of women was the speaker frequently working with? : 4272.8710, 4283.4098
+Where does the speaker currently work? : 4402.4068, 4414.5345
+Does the speaker think Rochesterians have an accent? : 4532.0890, 4544.1824

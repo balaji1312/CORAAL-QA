@@ -1,0 +1,32 @@
+When is the speaker's birthday? : 0.2901, 4.1277
+What is the speaker's hometown? : 13.2460, 15.3629
+What is the speaker's job? : 60.1689, 67.5444
+Where was the speaker's father born? : 73.3626, 75.5495
+Where was the speaker's mother born? : 77.0323, 80.2112
+What did the speaker's father do for work? : 91.0735, 95.4613
+On what street did the speaker grow up? : 122.9666, 126.4311
+What was on the other side of the alley behind the speaker's childhood house? : 256.5427, 263.5825
+What does the speaker say happened to the stores on Georgia Avenue when the riots happened? : 334.5520, 348.8648
+Why did the speaker's oldest sister travel a lot? : 586.3888, 594.7622
+What does the speaker believe that their father invented? : 714.6890, 719.8310
+How many members of the speaker's family finished college? : 812.8141, 819.8260
+How old did the speaker say that the average freshman student at their college was? : 1006.9810, 1015.8615
+What does the speaker say that U street started to be known for? : 1159.7962, 1164.6083
+How old was the speaker during their first summer job? : 1207.1994, 1216.7199
+According to the speaker, is the White Flint Mall still open? : 1465.8149, 1469.5219
+What church did the speaker's family belong to growing up? : 1635.9702, 1638.9031
+Did girl's often wear pants at the speaker's Catholic school? : 1706.0864, 1716.4648
+In high school, where was the speaker's best friend's family from? : 1881.0656, 1889.3690
+When did the speaker win their first trophy? : 2000.4547, 2016.6420
+Where would the speaker get teenage romance novels to read? : 2142.8111, 2154.2469
+How old was the speaker's sister when she got her driver's license? : 2254.6161, 2279.8581
+What kind of car did the speaker receive as a graduation gift after high school? : 2493.0697, 2498.7025
+How tall was the speaker's mother? : 2573.9141, 2581.4575
+What was the speaker's major in college? : 2866.9302, 2873.6250
+Was the speaker offered a job at Honeywell? : 2890.5152, 2904.5762
+What was the speaker's salary in nineteen eighty three? : 3136.0163, 3143.1820
+Where was the speaker's sister on September Eleventh? : 3259.3186, 3267.4857
+According to the speaker, why were the streets blocked when the they were pulling onto Georgia Avenue one day? : 3582.0101, 3605.2466
+When did the speaker's mother pass away? : 3633.2741, 3637.8753
+How does the speaker define a carry out restaurant? : 4013.9223, 4038.8035
+When the speaker had an apartment on Adelphi Road, who would the neighbors son listen to every night? : 4198.1935, 4216.0070

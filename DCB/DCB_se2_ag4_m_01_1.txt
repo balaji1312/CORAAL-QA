@@ -1,0 +1,22 @@
+How long did the speaker live in Washington DC? : 13.2498, 20.9699
+Where was the speaker born? : 43.4060, 47.5741
+What does the speaker do for work? : 120.4286, 124.6547
+Where was the speaker's father born? : 133.7028, 136.8529
+Where was the speaker's mother born? : 137.4617, 139.7665
+What did the speaker's father do for work? : 153.6070, 160.6216
+What did the speaker's mother do for work? : 161.8511, 165.6495
+How many siblings did the speaker have? : 205.3568, 207.8619
+Where did the speaker meet a lot of their friends as a child? : 251.3980, 276.4882
+How old was the speaker when they moved to Southeast DC? : 549.2817, 553.4229
+What does the speaker call a hustle? : 688.3648, 701.3700
+How much does the speaker say minimum wage was when they were growing up? : 795.1331, 800.6800
+What did the speaker go to jail for? : 908.0288, 915.6144
+What drug did the speaker say they never did? : 978.1882, 1004.2057
+Where was the speaker when they were in jail? : 1165.4129, 1173.2392
+How did the speaker get caught with drugs? : 1440.8395, 1446.3723
+How long has the speaker been married to their wife? : 1615.8373, 1627.9863
+Did the speaker travel outside of their neighborhood much in the sixties and seventies? : 1859.2396, 1873.9792
+How much does the speaker say that a pay of tennis shoes cost when they were growing up? : 2478.8419, 2487.0505
+According to the speaker, what does it mean to bop? : 3193.3347, 3214.5981
+What kind of new car did the speaker buy their wife? : 3627.7478, 3647.9534
+What does the speaker say the problem with society is? : 3799.9927, 3816.1320

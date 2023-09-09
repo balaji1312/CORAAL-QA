@@ -1,0 +1,17 @@
+﻿What color does the speaker like? : 15.1381, 20.2575
+Where was the speaker born? : 40.0567, 43.8791
+What job does the speaker’s mom have? : 133.1329, 134.9782
+What was the speaker’s favorite time in their life? : 256.9845, 261.2127
+What was the speaker’s favorite show? : 555.3066, 573.3994
+When did the speaker have her first kiss? : 707.6504, 714.2473
+How long has the speaker been modeling? : 796.2702, 803.0769
+Does the speaker like her hair? : 1059.4912, 1064.0784
+What texture is the speaker’s hair? : 1204.1755, 1209.6171
+What does the speaker wish to do next in their life? : 1547.4815, 1549.0954
+What is the speaker currently writing? : 1697.6420, 1700.8023
+Where does the speaker want to go to college? : 1871.2317, 1873.1251
+Where did the speaker meet her current boyfriend? : 2027.7887, 2035.4615
+What areas are the best parts of Rochester? : 2783.9131, 2789.6473
+Is Rochester segregated? : 2821.8051, 2825.5680
+Where would the speaker like to live? : 2938.6248, 2943.9580
+Does the speaker think people in Rochester have an accent? : 2994.6485, 3010.6350

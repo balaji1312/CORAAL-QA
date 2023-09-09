@@ -1,0 +1,16 @@
+﻿Which part of Rochester did the speaker grow up in? : 38.4748, 46.4510
+How was the speaker’s neighborhood growing up? : 75.0510, 89.9045
+What activities was the speaker involved in growing up? : 253.4336, 258.1130
+Where was the speaker’s grandmother born? : 299.6106, 313.8678
+Where is the speaker’s husband’s family from?  : 417.4954, 424.9231
+What program did the speaker initially attend? : 614.0299, 617.9537
+What score did the speaker receive on her GRE? : 851.3325, 860.1642
+What is the speaker’s husband’s job? : 1119.6239, 1124.1868
+What is the speaker’s favorite course to teach? : 1248.5213, 1265.6954
+What is the most challenging part of being an educator? : 1400.6122, 1411.7613
+What inspires the speaker’s writing? : 1571.8567, 1610.1334
+What does the speaker think about the writing community of Rochester? : 1665.4706, 1679.3943
+What is the speaker's favorite thing about Rochester? : 1855.1580, 1864.1669
+Does the speaker think Rochester is a diverse place? : 2218.2161, 2240.4812
+What do other people think about the speaker’s accent? : 2310.9143, 2320.1129
+Where was the speaker’s grandmother’s restaurant located? : 2460.9866, 2469.8656

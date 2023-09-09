@@ -1,0 +1,13 @@
+Where was the speaker born? : 19.8302, 23.3511 
+Where are the speaker's parents from? : 53.7822, 60.6261
+Where did the speaker's parents carve their initials into a tree? : 129.2820, 148.5623
+How old is the speaker's sister? : 385.4945, 388.5677
+Why does the speaker talk to their father now? : 467.0674, 478.2173
+What does the speaker's father do for work? : 643.1173, 644.9356
+What does the speaker's mother do for work? : 661.5754, 664.5457
+What game did the speaker play when they were little? : 746.5806, 748.7815
+What did the speaker associate with AIDS as a child? : 859.6436, 875.0728
+What did the people by the basketball court call the speaker? : 927.3650, 940.6180
+Why did the speaker's mother make sure they kept quarters in their bra? : 1015.6732, 1023.2102
+Why did people respect the speaker's brother? : 1366.4981, 1374.7778
+Who started cutting funding for programs in the speaker's neighborhood twenty years ago? : 1482.1847, 1497.6771

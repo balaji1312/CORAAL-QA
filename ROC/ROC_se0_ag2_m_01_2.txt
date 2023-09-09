@@ -1,0 +1,4 @@
+What did the speaker describe as the mystique created in the areas?: 6.0231, 15.0594
+What did the speaker mention about the schools being closer to?: 18.6034, 23.7965
+Are the schools described by the speaker located closer to the town centers?: 18.6034, 23.7965
+What did the speaker describe as their wife’s joke about showing up to Pittsford Wegsman?: 32.5291, 45.6001

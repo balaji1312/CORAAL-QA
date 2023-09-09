@@ -1,0 +1,7 @@
+What does the speaker study in college? : 123.5963, 124.8413
+Where did the speaker learn to swim? : 225.8887, 251.5767
+Where did the speaker's mother move when the speaker was eight? : 505.8550, 510.5459
+What was the name of the area the speaker lived in in Oklahoma? : 656.4221, 658.5483
+What was one of the speaker's fondest memories? : 773.4578, 808.2128
+What did the speaker's friend Jed call the speaker? : 928.9122, 932.4175
+How many games did the speaker's football team lose in ninth grade? : 1105.5363, 1111.6901

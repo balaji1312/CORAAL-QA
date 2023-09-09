@@ -1,0 +1,21 @@
+When was the speaker born? : 33.0685, 36.7554
+Where was the speaker's father from? : 60.0254, 63.3174
+Where was the speaker's mother from? : 63.7278, 67.3429
+What kind of children was the school that the speaker transferred to as a kid for? : 185.1406, 199.3248
+What was the speaker's major in college? : 340.4286, 353.6647
+How old was the speaker when they had their first daughter? : 527.8482, 532.6643
+Who did the speaker play with as a child? : 678.8917, 695.0276
+Where did the speaker play kick the can as a child? : 801.0385, 811.1627
+By what time did the speaker need to return home as a child? : 974.4547, 996.5251
+Why would the speakers brother get into fights with people from the Smith projects? : 1095.1412, 1107.1478
+In what year did the speaker move to Williamsburg? : 1248.2986, 1256.6100
+Where does the speaker's nephew live? : 1457.6515, 1461.0727
+What instruments did the speaker play : 1514.3413, 1519.0285
+Does the speaker feel that the East Village is a different neighborhood than the Lower East Side? : 1638.8315, 1650.8466
+What does the speaker say will happen to local programs if government funding isn't provided? : 1851.2093, 1860.1425
+What was the speaker's socioeconomic status while growing up? : 2085.3970, 2107.9702
+According to the speaker, how did gentrification affect the drug use in their neighborhood? : 2248.5784, 2270.1534
+What kind of music does the speaker play now? : 2366.9741, 2375.9852
+How often did the speaker play for events at the Henry Street Settlement? : 2596.2921, 2606.8139
+What types of buildings does the speaker think that their neighborhood doesn't have enough of? : 2784.5519, 2794.2177
+Where does the speaker say that a tall building would stick out like a sore thumb? : 3004.5149, 3015.2142

@@ -1,0 +1,21 @@
+When did the speaker move to Princeville? : 16.1297, 22.7214
+Where was the speaker raised? : 30.3565, 34.5957
+What percentage of the speaker's friends are from the area that they're currently in? : 99.4265, 105.0451
+Why doesn't the speaker's town have houses near the river anymore? : 165.8856, 187.1423
+What was the name of the park in Tarboro that the speaker used to go to? : 394.5247, 400.1223
+Did the speaker go to an all Black school while growing up? : 493.7129, 499.4620
+How far was the first school that the speaker went to from their house? : 510.9319, 517.8786
+Why did the speaker feel that black students were being treated differently during an incident at their high school? : 586.0871, 595.8549
+When did the speaker first join the local fire department? : 660.0041, 666.2550
+According to the speaker, where did the fire department get money to put fuel in their truck? : 748.8255, 760.0665
+How does the number of fire calls that the speaker's fire department gets compare with the number of EMS calls they get? : 928.9391, 941.6680
+How old does a person have to be a fireman at the speaker's fire department? : 982.0208, 992.0998
+Why does the speaker's fire department get more calls than any other fire department in the county? : 1036.2622, 1056.2692
+Why does the speaker say that people didn't take the flood very seriously? : 1116.6195, 1127.3462
+At what time does the speaker say the mayor decided to evacuate the town during the flood? : 1258.9864, 1275.5569
+How does the speaker say that people who stayed too long during the flood had to be rescued? : 1476.8987, 1485.7415
+Why didn't the people in Prince Court call the speaker for help during the flood? : 1633.5330, 1648.3517
+How do people in the speaker's area react to rain now? : 1831.1259, 1841.8195
+What does the speaker say is the current population of their town? : 2092.1013, 2105.0101
+Does the speaker think that young people appreciate the history of their town? : 2183.8763, 2199.6279
+According to the speaker, why did employees in their town once quit and go on strike? : 2493.1025, 2500.3474

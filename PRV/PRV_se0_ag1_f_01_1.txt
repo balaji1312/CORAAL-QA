@@ -1,0 +1,10 @@
+How old is the speaker? : 20.7088, 25.3191
+What is the speaker studying in school? : 97.6836, 101.9464
+Why does the speaker go to their grandmother's house during hurricanes? : 490.3260, 500.4819
+According to the speaker, what was Princeville School renamed? : 1281.7158, 1288.6766
+According to the speaker, what is the oldest historically Black town in America that was established by freed slaves? : 1419.4601, 1428.5369
+How old is the speaker's grandmother? : 1726.7231, 1738.7799
+How old is the speaker's grandfather? : 1740.2993, 1744.7420
+How many siblings does the speaker have? : 1749.8853, 1752.4129
+Where does the speaker's mother work? : 1834.4438, 1839.4877
+What church does the speaker go to? : 2098.8320, 2102.5856

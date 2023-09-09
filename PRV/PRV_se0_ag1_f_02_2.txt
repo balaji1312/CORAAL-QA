@@ -1,0 +1,5 @@
+What does the speaker say made them who they are? : 41.4362, 44.4731
+Who does the speaker spend holidays with? : 157.9051, 160.8067
+According to the speaker, what was the oldest town chartered by slaves? : 216.6981, 220.7546
+Who spoke at the speaker's graduation? : 313.1761, 340.5989
+What did the speaker do in their second grade year when they got off the bus and saw some girls fighting? : 505.0341, 515.9190

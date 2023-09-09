@@ -1,0 +1,35 @@
+When is the speaker's birthday? : 0.4754, 4.2605
+Where was the speaker born? : 6.7925, 15.4084
+How long did the speaker live in Baltimore? : 66.6853, 70.2897
+What is the speaker's job? : 162.4894, 167.5428
+Where does the speaker's father live? : 207.9761, 216.8811
+Where was the speaker's mother born? : 217.8696, 222.4847
+What does the speaker's mother do for work? : 231.0354, 239.6361
+Why isn't the speaker's father currently working? : 240.1863, 250.4436
+Who lived with the speaker in their childhood home? : 262.7362, 282.5174
+Why didn't the speaker's mother want them to go to Turner Elementary School? : 395.1045, 409.1189
+Did the speaker spend time with other children in the neighborhood as a child? : 509.8086, 513.2825
+Where was the church that the speaker hung out at? : 645.7775, 653.3163
+When did the speaker first play Mario? : 786.5287, 796.1786
+What does the speaker say the goal of Project Two Thousand was? : 974.4174, 987.5691
+What did the speaker take instead of wood shop in junior high school? : 1211.0877, 1235.4981
+What was the speaker's favorite subject in school? : 1332.2674, 1338.3560
+What was the speaker hit in the head with when they got jumped? : 1571.8553, 1597.1096
+What did the speaker call the girl they danced with at their ninth grade prom? : 1669.5992, 1689.5203
+Why does the speaker thing that they have intense moments of intimacy? : 1994.0375, 2009.7620
+Where does the speaker say the most powerful thugs in the area came from? : 2100.7039, 2108.3359
+What mix tape did the speaker listen to in the summer before high school? : 2330.0515, 2337.2125
+In what grade did the speaker first feel that they fit in at school? : 2718.0511, 2729.1185
+How tall is the speaker? : 2774.8908, 2785.9489
+What book did the speaker read in their humanities class? : 2813.7853, 2840.6763
+Why did the speaker start shoplifting? : 2987.2164, 3013.2075
+Why did the speaker lose their job in two thousand and four? : 3289.3297, 3302.3555
+Where did the speaker take their first flight to? : 3442.0374, 3451.4261
+What type of dance did the speaker learn in elementary school? : 3595.3749, 3603.2853
+Why does the speaker love dance? : 3621.5011, 3636.5682
+In what year was Urban Energy started? : 3785.7102, 3791.9374
+Why did the speaker leave their tour after their Vegas show? : 3985.4261, 3994.4524
+When did the speaker start writing poetry? : 4135.9187, 4155.4096
+Why doesn't the speaker's father talk much? : 4382.5983, 4416.5011
+When was the speaker supposed to speak at the UN? : 4562.9946, 4589.0137
+What is the longest running open mic in Washington DC? : 4770.3706, 4773.3910

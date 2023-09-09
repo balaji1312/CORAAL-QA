@@ -1,0 +1,25 @@
+When is the speaker's birthday? : 0.3209, 4.3217
+Where was the speaker's father born? : 95.5154, 98.6198
+Where was the speaker's mother born? : 106.0839, 109.0775
+What does the speaker's father do for work? : 115.4773, 119.3895
+What did the speaker's mother do for work? : 176.2933, 182.4799
+How did the speaker's parents meet? : 204.5774, 226.8859
+Does the speaker have a good relationship with their father? : 383.3056, 388.2145
+How many siblings does the speaker have? : 433.3188, 435.7575
+Why did the speaker's principal leave during the speaker's fifth grade year? : 596.0889, 603.6929
+Why did the speaker write his principal a memo in sixth grade? : 707.6094, 729.7489
+When did the speaker realize that they weren't going to be an artist? : 1173.2901, 1181.0595
+What was the speaker's GPA in their junior year of high school? : 1235.1792, 1251.0859
+What size school did the speaker want to go to? : 1490.6847, 1499.3225
+What caught the speaker off guard in college? : 1618.2238, 1622.2868
+Where is the speaker's godson's internship? : 2165.9844, 2181.0466
+In what field did the speaker's last girlfriend work? : 2262.8805, 2271.7474
+What does the speaker say has split the community? : 2509.1707, 2520.7347
+What was the street that the speaker told the rental office he did not want to live on? : 2672.6077, 2677.6709
+Does the club that the speaker works at serve children from twenty second street? : 2755.9565, 2775.0112
+What Congressman did the speaker go to visit? : 3021.9781, 3028.2306
+What does the speaker do for fun? : 3486.8262, 3495.7519
+What does the speaker say is the best go go song? : 3646.9606, 3651.1215
+What does the speaker say carry out food is? : 3971.8658, 3979.8125
+Does the speaker have allergies? : 4314.7166, 4320.0642 
+What advice would the speaker give to young people? : 4379.5672, 4406.7171

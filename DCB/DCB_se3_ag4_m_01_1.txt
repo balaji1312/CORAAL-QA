@@ -1,0 +1,20 @@
+In what year did the speaker leave Adams Morgan? : 26.4349, 52.7674
+How much does the speaker say that condos in the area sell for? : 77.2175, 88.0303
+What made the speaker's neighborhood unique? : 	290.5155, 298.7581
+What is the only building on Eighteenth and California from the speaker's childhood that is still there? : 397.7562, 412.2337
+What movies does the speaker say came out when they were in school? : 511.7456, 530.0796
+What AM radio stations did the speaker listen to? : 694.8958, 703.0297
+On what street does the speaker say that the Tivoli Theater was? : 740.9444, 753.6885
+What does the speaker say is troubling about the youth? : 923.2608, 936.3488
+What does the speaker's friend's wife's father have a PhD in? : 1048.0184, 1058.1372
+Why is the speaker pushing to take their kids to the African American Museum? : 1202.0529, 1223.7522
+Where did the speaker buy a book about plantations? : 1340.7608, 1364.8528
+What actor does the speaker say lost all their money to taxes? : 1522.3252, 1526.7041
+Who does the speaker say that the essence of slavery is from? : 1637.5328, 1655.8489
+What percent of the speaker's elementary school was African American? : 1864.7287, 1871.1464
+Where does the speaker say that the burning was centered during the riots? : 2033.4983, 2049.6988
+Who does the speaker say was president of Halliburton? : 2298.9070, 2308.1939
+According to the speaker, what position was Walter Washington elected to? : 2510.3935, 2514.8928
+Where was the speaker's fraternity advisor from? : 2784.5884, 2794.1179
+According to the speaker, why did exceptional professors go to white schools? : 2913.8559, 2929.8131
+Was go go music popular with the speaker's generation? : 3266.7729, 3281.9088

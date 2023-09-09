@@ -1,0 +1,24 @@
+How old is the speaker? : 14.2170, 15.4010
+Did the speaker see a big difference between Maryland and Washington DC schools? : 93.3061, 100.8788
+What does the speaker say is one of the main instruments of go go music? : 169.3395, 191.4552
+Has the speaker gotten into fights at go go clubs before? : 273.8414, 277.8165
+What does the speaker say people in Washington DC would do once they had money? : 417.1091, 427.6292
+How long has the speaker lived in southern Maryland? : 516.0984, 526.9523
+How does the speaker say that carry out restaurants are different than Chinese restaurants? : 624.4585, 640.2255
+What animal did the speaker's father used to hunt? : 748.7082, 759.0003
+What street was the speaker born on? : 776.1026, 780.0719
+What was the name of the band that the speaker used to play with? : 847.8437, 850.6365
+Where are the speaker's parents from? : 917.9109, 934.2621
+How many children did the speaker's mother raise? : 1150.9532, 1164.2115
+What did the speaker's brother do for work in his twenties? : 1258.6604, 1274.5375
+What family traditions did the speaker have growing up? : 1385.5915, 1400.7385
+Where did the speaker's father work? : 1449.0948, 1459.8015
+What was the name of the speaker's dog? : 1584.6636, 1588.4063
+How often did the speaker used to see his grandmother? : 1729.4810, 1732.5344
+Where does the speaker's brother live? : 1826.9850, 1829.2536
+Who made sure that the speaker went to school? : 1999.3625, 2001.4372
+Why did the speaker's mother have a lot of time? : 2087.0226, 2098.2251
+When was the church that the speaker's family went to established? : 2211.8296, 2221.7188
+What instrument did the speaker's brother play? : 2490.0809, 2495.1144
+Who are the speaker's five favorite go go bands? : 2591.9759, 2620.2252
+Where did the speaker first see Chuck Brown? : 2872.3768, 2895.4553

@@ -1,0 +1,17 @@
+Where was the speaker born? : 8.8919, 10.7833
+On what street did the speaker live on when growing up? : 12.9512, 16.9606
+When did the speaker first meet a white person? : 295.1973, 301.9499
+Why did the speaker leave North Carolina A and T? : 437.1667, 446.0872
+What does the speaker say that their town should be in the Guinness Book of World Records for? : 722.9986, 727.3183
+Where does the speaker's family get together every Sunday now? : 914.2081, 919.5360
+What does the speaker want to do with fashion design? : 1139.1882, 1160.4401
+What does the speaker say is the best thing Princeville has going for it? : 1364.7336, 1369.6212
+How old was the speaker when they stopped playing in the mud? : 1483.0011, 1486.8158
+When was the speaker's grandmother born? : 1659.2428, 1665.1075
+How old is the speaker's sister? : 1816.4403, 1818.3526
+What is the speaker's sister majoring in at school? : 1819.6259, 1828.5303
+How high did the speaker's grandmother say that the flood water in fifty nine was? : 1944.9017, 1955.3350
+At what time did the speaker used to wake up to go to the grocery store? : 2169.8581, 2175.0886
+Why does the speaker think that the way FEMA worked was unfair? : 2358.3479, 2388.6745
+Why do people in the speaker's area look forward to Fridays? : 2535.9954, 2547.0270
+According to the speaker, who does Princeville pay for their water? : 2644.9989, 2654.7478

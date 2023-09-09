@@ -1,0 +1,32 @@
+When is the speaker's birthday? : 0.2513, 3.8884
+Where was the speaker born? : 5.8503, 11.8596
+Has the speaker ever lived outside of Washington DC? : 61.1792, 69.1656
+Where is the speaker's mother from? : 108.1394, 109.6595
+Why does the speaker hate the movie The Help? : 189.0979, 196.4641
+How many siblings did the speaker have? : 329.8584, 341.9411
+Did the speaker's mother walk them to school? : 375.6435, 384.2221
+How old was the speaker when they met their partner? : 629.6625, 640.0585
+How old was the speaker's sister when she got pregnant? : 734.3658, 737.0237
+Why didn't the speaker get along with their step father? : 778.8045, 789.3849
+In what year did the speaker get married? : 868.4096, 882.7877
+What was the speaker's first job? : 917.9477, 924.6005
+What does the speaker say is one thing their mother took pride in? : 1009.8874, 1013.1270
+How much was the rent in the speaker's first apartment? : 1023.8167, 1028.7163
+What did the speaker tell their literature teacher? : 1117.6955, 1134.2826
+How old was the speaker when they had cancer? : 1304.3436, 1312.5154
+How long did the speaker work at a hospital center? : 1448.1431, 1450.5760
+To whom did the speaker first see their mother show affection? : 1514.8332, 1523.5599
+Why didn't people believe that the speaker's children were theirs? : 1586.5534, 1594.6133
+When did the speaker's attitude about white people change? : 1706.9134, 1711.6369
+What kind of car was the speaker's first car? : 1902.4945, 1904.1592
+In what year did the speaker buy their first house? : 1967.8790, 1978.1910
+Where did the speaker hear James Brown sing? : 2308.9791, 2313.7621
+What was Washington DC called when the speaker was growing up? : 2478.7370, 2483.8371
+What is the speaker's favorite book? : 2773.7861, 2782.8392
+Why does the speaker think that appearances are a big deal? : 2875.5878, 2885.5128
+How long has the speaker worked in family services? : 3012.4594, 3019.5232
+What area does the speaker say that elitist Black people would move to? : 3109.5437, 3117.1897
+What does the speaker do for fun? : 3180.3033, 3182.9985
+Do the speaker's grandchildren want to go see the local monuments with them? : 3599.1479, 3607.0877
+Does the speaker think that Obama is responsible for the change in their city? : 3745.8897, 3751.4794
+Who does the speaker say has been fighting to end taxation without representation in the area for two decades? : 4056.8579, 4073.4031

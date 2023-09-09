@@ -1,0 +1,13 @@
+How long has the speaker lived in their area? : 44.5337, 49.0952
+In what area did the speaker go to school? : 52.0867, 57.9758
+Who does the speaker say is the godfather of go go music? : 254.5373, 262.1726
+What instrument did the speaker play at first when they were part of a band? : 660.1232, 677.9608
+How old is the speaker? : 787.1423, 797.1085
+Where did the speaker's parents grow up? : 1129.8592, 1148.2945
+According to the speaker, what does the word "bumping" mean? : 1485.3306, 1502.6400
+What does the speaker do for work? : 1918.6786, 1930.1181
+Did the speaker attend college? : 1932.9450, 1940.5499
+What does the speaker say that their main goal for the future is? : 2046.7348, 2059.9893
+How long ago did the speaker start writing their book? : 2361.3874, 2376.3697
+Does the speaker have any siblings? : 2470.8488, 2481.9479
+Does the speaker support the president? : 2808.3247, 2829.1542

@@ -1,0 +1,21 @@
+When is the speaker's birthday? : 0.4473, 3.6647
+Where was the speaker born? : 6.0556, 9.1937
+Where were the speaker's parents born? : 119.5252, 125.6977
+What does the speaker's father do for work? : 127.8228, 131.4226
+What does the speaker's mother do for work? : 132.4659, 134.8254
+Why was the speaker in a reading program in elementary school? : 323.5586, 344.3284
+What was the speaker's favorite subject in school? : 393.0605, 420.8409
+What is the speaker's favorite book? : 524.3890, 536.6035
+Did the speaker's parents attend college? : 616.0257, 619.1860
+When did the speaker first worry about the issue of race? : 1014.8782, 1027.2839
+Where did the speaker's family usually go for vacations? : 1243.9823, 1249.8658
+Are there still stoops in front of the speaker's grandmother's house? : 1412.4533, 1423.0451
+How old was the speaker's uncle when he was murdered? : 1591.7700, 1609.6114
+How did the speaker's grandmother drink beer? : 1849.9683, 1859.7478 
+How old were the speaker's parents when they met? : 1987.0421, 1999.7042
+Until what age did the speaker live with their grandmother? : 2205.3024, 2212.6174
+How many family members does the speaker have in Virginia? : 2518.2542, 2524.2915
+Where did the speaker go for community service in college? : 2963.5839, 2971.4153
+How old was the speaker when they found out that their father had used drugs? : 3145.0329, 3152.7582
+What is the speaker's favorite type of music? : 3561.7478, 3575.6549
+Where did the speaker go to get chicken with mumbo sauce? : 3700.0882, 3714.7181

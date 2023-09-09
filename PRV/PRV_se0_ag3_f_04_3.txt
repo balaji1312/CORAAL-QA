@@ -1,0 +1,8 @@
+When did the speaker's aunt pass away? : 140.2740, 154.8064
+After what time would the speaker not be allowed to leave their house while growing up? : 316.4466, 324.8539
+What was the speaker's favorite food while growing up? : 503.7605, 528.1392
+When did the speaker get central air in their house? : 692.2929, 709.4172
+What was the speaker's favorite thing to do when they were little? : 811.6397, 824.3923
+How would the speaker's family preserve hog meat when they were growing up? : 1112.4112, 1130.6840
+What is the age difference between the speaker and their sister? : 1257.6041, 1266.8918
+Why did the speaker's mother fly on a plane? : 1421.9404, 1444.9910

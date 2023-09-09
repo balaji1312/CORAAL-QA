@@ -1,0 +1,9 @@
+What was the speaker teaching to kids at Honeyway school?: 100.2337, 103.9243
+What did the speaker mention as the time taken to catch buses to get to school if one’s late?: 130.8777, 138.3326
+Did the speaker mention that getting to Spencerport from the city was an easy haul?: 385.9048, 389.2242
+What did the speaker describe as the favorite parts of Rochester or favorite activities or things?: 856.7749, 871.5680
+When did the speaker start going to Charlotte?: 907.0511, 909.3940
+What parks did the speaker enjoy during his time at Pittsford?: 913.9765, 920.0676
+What did the speaker describe as the major landmarks of Baltimore?: 976.6362, 979.8063 
+What did the speaker suggest as the way to go to the Redwings game?: 1028.5099, 1033.8420
+Where does the speaker like to hangout on a Friday night?: 1065.5677, 1072.6750

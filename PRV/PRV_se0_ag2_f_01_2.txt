@@ -1,0 +1,4 @@
+Why did the speaker open three more booths at their salon? : 81.2635, 95.6322
+What is the speaker's dream? : 113.1053, 132.1358
+Why would the speaker never get married? : 270.6009, 275.7721
+Why did the speaker's grandmother have to walk to school? : 445.5151, 453.5330

@@ -1,0 +1,20 @@
+What does the speaker do for work? : 46.9792, 54.5892
+How long did it take the speaker to rent out all the units they manage in 2002? : 124.5911, 141.1758
+In what year does did the speaker slip in the mud? : 381.7723, 387.8291
+Where was the speaker born? : 438.1646, 454.4105
+How old was the speaker when they moved from where they were born? : 475.8687, 488.7633
+How many siblings does the speaker have? : 555.9040, 564.7042
+In what year was the speaker born? : 674.2947, 682.8014
+What did the speaker's grandmother spank them for? : 754.9860, 760.8637
+On what street did the speaker's uncle purchase property? : 805.7314, 812.7396
+What is one of the speaker's big dreams for Princeville? : 903.2319, 920.5929
+What games would the speaker play as a child? : 976.3564, 983.6440
+From what age did the speaker work in a Jewish household? : 1100.9438, 1108.3733
+What did the speaker study at East Carolina University? : 1207.0220, 1214.7166
+What is the reason that the speaker is still a commissioner? : 1492.1698, 1498.4964
+How much money did Princeville have in the bank when the flood came? : 1621.4575, 1639.5853
+What was the speaker looking forward to watching their grandson do? : 2125.1593, 2139.3414
+What church does the speaker go to? : 2401.3960, 2414.5462
+What did the speaker's grandmother do for work? : 2551.1262, 2568.9578
+What did the speaker's mother do for work? : 2569.7273, 2574.7353
+Where does the speaker's brother live? : 2699.8502, 2702.1628

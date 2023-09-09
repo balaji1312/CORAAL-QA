@@ -1,0 +1,4 @@
+Which side of the family are the speaker's family in Princeville on? : 9.1616, 18.0490
+Does the speaker like taking English classes? : 246.9261, 253.2386
+How many psychology classes is the speaker taking? : 271.0776, 274.5094
+When is the speaker's last day of classes? : 398.7627, 404.5781

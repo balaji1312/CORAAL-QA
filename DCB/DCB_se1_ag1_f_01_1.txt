@@ -1,0 +1,15 @@
+When was the speaker born? : 17.0216, 19.5291
+Where did the speaker grow up? : 23.2408, 26.5083
+What does the speaker want to do for work in the future? : 46.6766, 61.4732
+Where did the speaker’s mother work? : 76.9750, 90.0522 
+Where did the speaker’s father work? : 153.2124, 158.4106 
+How long has the speaker lived in their current location? : 184.6440, 187.9628
+Does the speaker have siblings? : 207.6694, 213.6834
+Where does the speaker’s grandmother live? : 511.3900, 515.4878
+What did the speaker do for fun? : 644.5044, 653.4001
+What subjects didn’t the speaker like in school? : 697.6884, 702.1928
+How does the speaker’s family celebrate holidays? : 817.4599, 825.8380
+What church does the speaker go to? : 873.0406, 876.5177
+What is the speaker’s favorite song or type of music? : 990.3921, 995.3022 
+How does the speaker commute to work? : 1252.7706, 1256.6583
+What is the speaker looking forward to in college? : 1390.8313, 1399.5638

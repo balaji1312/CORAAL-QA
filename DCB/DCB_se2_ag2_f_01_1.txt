@@ -1,0 +1,18 @@
+Where was the speaker born? : 0.5179, 4.2750
+What does the speaker do for work? : 42.1274, 46.8122
+Who raised the speaker? : 104.9791, 116.6178
+How many bedrooms did the speaker's house have when they were growing up? : 244.3888, 249.6728
+What was the speaker's favorite subject in school? : 729.0113, 732.3686
+What types of books does the speaker read? : 737.0583, 747.4077
+What type of sorority is the speaker in? : 975.5329, 982.0691
+What did the speaker study in college? : 1278.4729, 1283.4559
+Does the speaker have aunts and uncles in the area? : 1472.5322, 1485.5814
+Where was the speaker during the Pacquiao Mayweather fight? : 1580.5089, 1587.5720
+Does the speaker often do tourist activities in their area? : 1927.9848, 1957.9522
+Where did the speaker go for their sixteenth birthday? : 2170.7825, 2215.1828
+Did the speaker have a job in college? : 2378.8288, 2383.1875
+Why does the speaker thing that being handed things is bad? : 2427.1832, 2451.5282
+What bands did the speaker's mother listen to? : 2599.4890, 2616.1974
+What is the speaker's favorite band? : 2647.0973, 2650.0956
+When did the speaker meet their closest friend? : 2762.1558, 2772.9575
+Does the speaker prefer to drive or take public transportation? : 3262.5764, 3277.1317

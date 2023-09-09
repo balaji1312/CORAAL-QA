@@ -1,0 +1,12 @@
+What kind of dog did the speaker have as a child while in Valdosta the first time? : 65.8233, 72.4720
+Why did the speaker's mother not allow the dog to go into the house? : 205.5288, 212.8502
+Between what grades did the speaker realize they had anger issues? : 485.6686, 503.1369
+At what age did the speaker start playing football? : 765.4586, 767.3588
+What is the main team that the speaker played against during the Winnersville Classic? : 1114.7103, 1119.4140
+How did the speaker know they were well liked in highschool? : 1191.8526, 1195.9922
+Why did the teacher have to spray the speaker and the speaker's best friend with water? : 1355.7410, 1373.6542
+What foods did the speaker eat on their 21st birthday? : 1896.6100, 1907.8930
+What was the animal the speaker saw while in California? : 2171.0549, 2173.0292 
+What football player did the speaker meet during a middle school football field trip? : 2498.3777, 2503.7630
+Why is the speaker not into the NFL? : 2518.2435, 2530.8230 
+What was the cause of the fight that the speaker was in in eleventh grade? : 3026.4684, 3036.0537

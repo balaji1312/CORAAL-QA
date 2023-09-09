@@ -1,0 +1,11 @@
+Where did the speaker's aunt live? : 28.0022, 31.2862
+What is the age difference between the speaker and their older sister? : 241.5800, 267.1068 
+In what grade did the speaker sing Lift Every Voice and Sing? : 609.5593, 628.9430 
+What extracurricular activities did the speaker participate in in highschool? : 778.0507, 795.6953
+What is the name of the football event that occrs in the speaker's town? : 1076.6698, 1098.1967
+How many times had to the speaker gone to Orlando for band? : 1366.5841, 1382.8298
+What class did the speaker compare Girls of Grace to? : 1614.7399, 1647.5390
+What type of church was the speaker born into? : 2007.3461, 2043.0265
+What departemnt was the speaker's job contracted with? : 2376.5340, 2392.5185
+What is the speaker going to teach the children to make during her trip to the Dominican Republic? : 3165.4076, 3194.1937 
+What job did the mother of the speaker use to have? : 3519.8867, 3542.0207

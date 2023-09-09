@@ -1,0 +1,9 @@
+Did the speaker’s father go through heart attack?: 40.1849, 68.6491
+What was the speaker’ father doing?: 76.0925, 78.9439
+Where did the speaker’s father live?: 117.9275, 121.7062
+What was the reason that the speaker’s father was known in Japan?: 215.9863, 223.6291
+What did the speaker come to know as the favorite place of his father?: 393.5165, 398.0992
+What did the speaker describe as the biggest changes in the community?: 842.1858, 854.2234
+How many granddaughters does the speaker have?: 1042.3075, 1043.9767
+How many hours was the speaker working?: 1184.3219, 1186.4399
+How many weeks of vacation did the speaker have?: 1215.5196, 1218.6567

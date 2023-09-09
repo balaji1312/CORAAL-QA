@@ -1,0 +1,8 @@
+What position did the speaker play in football? : 54.6329, 68.2991
+When did the speaker move to Virginia? : 205.5370, 212.8907
+What does the speaker say will happen to singers at the Apollo Theater if the audience doesn't like them? : 388.0504, 402.4009
+What kind of music did the speaker sing? : 414.9406, 416.2281
+How old was the speaker when the Platters started? : 679.3644, 686.3206
+According to the speaker, how long was Only You on the billboard charts? : 870.3089, 875.6604
+According to the speaker, how long did it take Buck Rams to write The Great Pretender? : 881.4521, 909.5371
+According to the speaker, what was the address of the Platters publisher's office? : 1111.1939, 1122.3013
